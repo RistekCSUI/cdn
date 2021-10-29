@@ -1,0 +1,36 @@
+<svg width="232" height="696" viewBox="0 0 232 696" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="116" height="116" transform="translate(0.000244141 348) rotate(-90)" fill="#64E6FB"/>
+<rect x="58.0002" y="348" width="116" height="58" transform="rotate(-90 58.0002 348)" fill="#FFD668"/>
+</g>
+<path d="M116 232L0.000244141 116L0.000244141 232L116 232Z" fill="#5038BC"/>
+<g clip-path="url(#clip1)">
+<circle r="116" transform="matrix(-1 0 -2.58057e-06 -1 116 0.000190735)" fill="#C424A3"/>
+</g>
+<rect width="116" height="116" transform="matrix(-1 0 -2.58057e-06 -1 116 116)" fill="#64E6FB"/>
+<g clip-path="url(#clip2)">
+<circle cx="58.0002" cy="406" r="42" stroke="#C424A3" stroke-width="32"/>
+</g>
+<path d="M232 696L116 580V696L232 696Z" fill="#64E6FB"/>
+<circle r="40" transform="matrix(0.999998 0.00185936 -0.00185678 0.999998 174.515 638.732)" fill="#FFD668"/>
+<g clip-path="url(#clip3)">
+<path d="M116 580L0.000187445 696L116 696L116 580Z" fill="#5038BC"/>
+<path d="M116 696L0.000274658 580L0.000579096 696L116 696Z" fill="#C424A3"/>
+</g>
+<rect width="116" height="116" transform="translate(0.000244141 464)" fill="#5038BC"/>
+<rect x="24.0002" y="488" width="68" height="68" fill="#FFD668"/>
+<defs>
+<clipPath id="clip0">
+<rect width="116" height="116" fill="white" transform="translate(0.000244141 348) rotate(-90)"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="116" height="116" fill="white" transform="matrix(-1 0 -2.58057e-06 -1 232 116)"/>
+</clipPath>
+<clipPath id="clip2">
+<rect width="116" height="116" fill="white" transform="translate(0.000244141 348)"/>
+</clipPath>
+<clipPath id="clip3">
+<rect width="116" height="116" fill="white" transform="matrix(-1 0 -2.58081e-06 -1 116 696)"/>
+</clipPath>
+</defs>
+</svg>
