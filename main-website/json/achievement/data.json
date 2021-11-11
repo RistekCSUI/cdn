@@ -2,35 +2,35 @@
   {
     "img": "vercel.svg",
     "placed": "3rd place of",
-    "competition_type": "Business IT Case",
+    "competitionType": "Business IT Case",
     "competition": "Future Innovation and Discovery IT",
     "year": "2018"
   },
   {
     "img": "image_4.png",
     "placed": "2nd place of",
-    "competition_type": "Business IT Case",
+    "competitionType": "Business IT Case",
     "competition": "COMPFEST 12",
     "year": "2019"
   },
   {
     "img": "image_4.png",
     "placed": "1st place of",
-    "competition_type": "UX Design Competition",
+    "competitionType": "UX Design Competition",
     "competition": "Gemastik XII",
     "year": "2019"
   },
   {
     "img": "image_4.png",
     "placed": "3rd place of",
-    "competition_type": "Software Engineering",
+    "competitionType": "Software Engineering",
     "competition": "Hackathon Tempo-Microsoft",
     "year": "2016"
   },
   {
     "img": "image_4.png",
     "placed": "2nd place of",
-    "competition_type": "Capture The Flag",
+    "competitionType": "Capture The Flag",
     "competition": "Cyber Jawara",
     "year": "2019"
   }
