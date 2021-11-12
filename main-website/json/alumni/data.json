@@ -1,0 +1,50 @@
+[
+  {
+    img: 'hack+.svg',
+    name: 'Ariq',
+    company: 'Googel',
+    message:
+      '“DPD RISTEK membantu saya mengasah skill Product Management, Brand Management, dan Design Thinking. Pengetahuan tersebut membantu saya mendapatkan kesempatan magang di perusahaan multinasional di industri teknologi dan FMCG.”',
+    title: 'Reyhan Ariq Syahalam, Product Design Lead at Google',
+  },
+  {
+    img: 'hack+.svg',
+    name: 'Budi',
+    company: 'Okjek',
+    message:
+      '“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”',
+    title: 'Budi, Product Design Lead at Google',
+  },
+  {
+    img: 'hack+.svg',
+    name: 'Adi',
+    company: 'Tokopedei',
+    message:
+      '“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”',
+    title: 'Adi, Product Design Lead at Google',
+  },
+  {
+    img: 'hack+.svg',
+    name: 'Mika',
+    company: 'Bukabapak',
+    message:
+      '“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”',
+    title: 'Reyhan Ariq Syahalam, Product Design Lead at Google',
+  },
+  {
+    img: 'hack+.svg',
+    name: 'Fulan',
+    company: 'Pertamini',
+    message:
+      '“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”',
+    title: 'Reyhan Ariq Syahalam, Product Design Lead at Google',
+  },
+  {
+    img: 'hack+.svg',
+    name: 'Reyhan',
+    company: 'Telsa',
+    message:
+      '“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”',
+    title: 'Reyhan Ariq Syahalam, Product Design Lead at Google',
+  },
+]
