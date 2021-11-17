@@ -1,6 +1,6 @@
 [
   {
-    "img": "sunjad",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/sunjad.png",
     "name": "SusunJadwal",
     "time": "July 2021",
     "description": "With over 200k annual users and a strong cult of community, SusunJadwal has been the #1 app for helping students across the University of Indonesia to plan courses and share schedules.",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "img": "risteklink",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/risteklink.jpeg",
     "name": "RISTEK.LINK",
     "time": "May 2021",
     "description": "The easiest customizable url shortener, ever.",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "img": "",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/risteklink.jpeg",
     "name": "UlasKelas",
     "time": "Coming Soon",
     "description": "Ever had a hard time getting information on courses you want to take? Fret no more, UlasKelas is a mobile application to help students learn about the courses they can take",
