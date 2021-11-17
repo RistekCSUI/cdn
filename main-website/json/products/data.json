@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/sunjad.png",
     "name": "SusunJadwal",
     "time": "July 2021",
@@ -10,6 +11,7 @@
     }
   },
   {
+    "id": 2,
     "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/risteklink.jpeg",
     "name": "RISTEK.LINK",
     "time": "May 2021",
@@ -20,6 +22,7 @@
     }
   },
   {
+    "id": 3,
     "img": "",
     "name": "UlasKelas",
     "time": "Coming Soon",
