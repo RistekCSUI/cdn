@@ -1,6 +1,6 @@
 [
   {
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/sunjad.png",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/sunjad.png",
     "name": "SusunJadwal",
     "time": "July 2021",
     "description": "With over 200k annual users and a strong cult of community, SusunJadwal has been the #1 app for helping students across the University of Indonesia to plan courses and share schedules.",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/risteklink.jpeg",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/risteklink.jpeg",
     "name": "RISTEK.LINK",
     "time": "May 2021",
     "description": "The easiest customizable url shortener, ever.",
