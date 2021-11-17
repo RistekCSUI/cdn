@@ -2,6 +2,7 @@
   {
     "id": 1,
     "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/sunjad.png",
+    "logo": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/logosunjad.png",
     "name": "SusunJadwal",
     "time": "July 2021",
     "description": "With over 200k annual users and a strong cult of community, SusunJadwal has been the #1 app for helping students across the University of Indonesia to plan courses and share schedules.",
@@ -13,6 +14,7 @@
   {
     "id": 2,
     "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/risteklink.jpeg",
+    "logo": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/logoristeklink.png",
     "name": "RISTEK.LINK",
     "time": "May 2021",
     "description": "The easiest customizable url shortener, ever.",
@@ -24,12 +26,13 @@
   {
     "id": 3,
     "img": "",
+    "logo": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@latest/main-website/photos/products/logoulaskelas.png",
     "name": "UlasKelas",
     "time": "Coming Soon",
     "description": "Ever had a hard time getting information on courses you want to take? Fret no more, UlasKelas is a mobile application to help students learn about the courses they can take",
     "links": {
-      "github": "https://github.com/ristekoss/ristek-link",
-      "web": "https://ristek.link/"
+      "github": "https://google.com",
+      "web": "https://google.com"
     }
   }
 ]
