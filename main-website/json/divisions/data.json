@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "name": "Competitive Programming",
+    "about": "Hone your analytics and problem-solving skills with Competitive Programming. You will learn problem-solving strategies and algorithms used in contests and even technical interviews on big enterprises. You will be adept in national and international competitions. Also, you will be surrounded by people who can and are willing to help you tackle all sorts of technical interview problems.",
+    "team": [
+      {
+        "name": "Inigo Ramli",
+        "division": "Competitive Programming",
+        "position": "Director"
+      },
+      {
+        "name": "Hocky Yudhiono",
+        "division": "Competitive Programming",
+        "position": "Vice President"
+      },
+      {
+        "name": "Muhammad Kenshin Himura Mahmuddin",
+        "division": "Competitive Programming",
+        "position": "Lead"
+      },
+      {
+        "name": "Steven Novaryo",
+        "division": "Competitive Programming",
+        "position": "Lead"
+      },
+      {
+        "name": "Richie Christiansen Senlia",
+        "division": "Competitive Programming",
+        "position": "Lead"
+      },
+      {
+        "name": "I Made Indra Mahaarta",
+        "division": "Competitive Programming",
+        "position": "Member"
+      },
+      {
+        "name": "Immanuel Immanuel",
+        "division": "Competitive Programming",
+        "position": "Member"
+      },
+      {
+        "name": "Muhammad Fikri Haryanto",
+        "division": "Competitive Programming",
+        "position": "Member"
+      },
+      {
+        "name": "Dimas Tri Kurniawan",
+        "division": "Competitive Programming",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Data Science",
+    "about": "Data Science will give you exposure to what data scientists do daily, such as data wrangling, manipulation, modeling, to produce meaningful insights for strategic decision making. This year, Data Science will focus more on the practical side of data science, easily applicable in a wide range of data science-related tasks. We believe that taking part in this highly-achieving community will allow you to grow and maximize your potential in the field of data. If you are interested in analyzing data, programming, statistics, and working with actual data, Data Science is for you!",
+    "team": [
+      {
+        "name": "Galangkangin Gotera",
+        "division": "Data Science",
+        "position": "Director"
+      },
+      {
+        "name": "Widyanto Hadi N",
+        "division": "Data Science",
+        "position": "Vice President"
+      },
+      {
+        "name": "Fathinah Asma Izzati",
+        "division": "Data Science",
+        "position": "Lead"
+      },
+      {
+        "name": "Eko Julianto Salim",
+        "division": "Data Science",
+        "position": "Lead"
+      },
+      {
+        "name": "Darren Ngoh",
+        "division": "Data Science",
+        "position": "Lead"
+      },
+      {
+        "name": "Jovi Handono Hutama",
+        "division": "Data Science",
+        "position": "Lead"
+      },
+      {
+        "name": "Gitan Sahl Tazakha Wijaya",
+        "division": "Data Science",
+        "position": "Member"
+      },
+      {
+        "name": "Debra Mazaya",
+        "division": "Data Science",
+        "position": "Member"
+      },
+      {
+        "name": "Geoffrey Tyndall",
+        "division": "Data Science",
+        "position": "Member"
+      },
+      {
+        "name": "Markus Leonard Wijaya",
+        "division": "Data Science",
+        "position": "Member"
+      },
+      {
+        "name": "Muhammad Fauzul Akbar",
+        "division": "Data Science",
+        "position": "Member"
+      },
+      {
+        "name": "Rizki Kurniawan",
+        "division": "Data Science",
+        "position": "Member"
+      },
+      {
+        "name": "Fikri Aufaa Zain",
+        "division": "Data Science",
+        "position": "Member"
+      },
+      {
+        "name": "Ardhani Dzaky",
+        "division": "Data Science",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Digital Product Design",
+    "about": "Digital Product Design is the right place for you for those who are passionate about designing a product. In designing those products, you will learn how to use the UI/UX principles correctly and research the user problems directly. This year, Digital Product Design aims to collaborate with Web Development to produce digital products with interactive and attractive designs and a good user experience. Here, you have the chance to build your design portfolio that will be useful for your future product design career.",
+    "team": [
+      {
+        "name": "Muhamad Raihan Fikriansyah",
+        "division": "Digital Product Design",
+        "position": "Director"
+      },
+      {
+        "name": "Astrida Nayla",
+        "division": "Digital Product Design",
+        "position": "Vice President"
+      },
+      {
+        "name": "Della Patricia Siregar",
+        "division": "Digital Product Design",
+        "position": "Member"
+      },
+      {
+        "name": "Reyhan Ariq Syahalam",
+        "division": "Digital Product Design",
+        "position": "Member"
+      },
+      {
+        "name": "Luthmilla Sari Bhaskara",
+        "division": "Digital Product Design",
+        "position": "Member"
+      },
+      {
+        "name": "Eugene Brigita Lauw",
+        "division": "Digital Product Design",
+        "position": "Lead"
+      },
+      {
+        "name": "Farah Mumtaza",
+        "division": "Digital Product Design",
+        "position": "Member"
+      },
+      {
+        "name": "Najmi Aliya",
+        "division": "Digital Product Design",
+        "position": "Member"
+      },
+      {
+        "name": "Rayhan Maulana Akbar",
+        "division": "Digital Product Design",
+        "position": "Member"
+      },
+      {
+        "name": "Thalia Teresa",
+        "division": "Digital Product Design",
+        "position": "Lead"
+      },
+      {
+        "name": "Rio Fernando Alexander",
+        "division": "Digital Product Design",
+        "position": "Lead"
+      },
+      {
+        "name": "Aaya Faizah",
+        "division": "Digital Product Design",
+        "position": "Lead"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Game Development",
+    "about": "Explore your interest and capabilities in developing your game with Game Development. You will have the chance to improve your skills in developing games by using popular game engines. By learning the aspects of game design, the basics of coding patterns, and implementing state machines in game development, you will be able to work as a team in developing games by joining Game Development.",
+    "team": [
+      {
+        "name": "Ahmad Haydar Alkaf",
+        "division": "Game Development",
+        "position": "Director"
+      },
+      {
+        "name": "Agung Mubarak",
+        "division": "Game Development",
+        "position": "Vice President"
+      },
+      {
+        "name": "Hendrico Kristiawan",
+        "division": "Game Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Beltsazar Anugrah Sotardodo",
+        "division": "Game Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Ryanda Mahdy Ananda",
+        "division": "Game Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Josephine Ceria",
+        "division": "Game Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Adam Ghaviyasha",
+        "division": "Game Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Raihan Rizqi Muhtadiin",
+        "division": "Game Development",
+        "position": "Member"
+      },
+      {
+        "name": "Nabila Khansa",
+        "division": "Game Development",
+        "position": "Member"
+      },
+      {
+        "name": "Ezra Pasha Ramadhansyah",
+        "division": "Game Development",
+        "position": "Member"
+      },
+      {
+        "name": "M. Faiq Hilmi Musyaffa",
+        "division": "Game Development",
+        "position": "Member"
+      },
+      {
+        "name": "Faris Muzhaffar",
+        "division": "Game Development",
+        "position": "Member"
+      },
+      {
+        "name": "Muhammad Ilham Ghozali",
+        "division": "Game Development",
+        "position": "Member"
+      },
+      {
+        "name": "Valentino Herdyan Permadi",
+        "division": "Game Development",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Human Resources",
+    "about": "Human Resources is the baseline of all RISTEK’s divisions.Human Resources aims to encourage and cultivate every member of RISTEK. Human Resources will make sure that every member gains every value RISTEK has to offer. Together with your division, you’ll create an impactful team that will give you not only soft skill benefits but also a hands-on learning experience.",
+    "team": [
+      {
+        "name": "Riri Edwina Renaganis",
+        "division": "Human Resources",
+        "position": "Director"
+      },
+      {
+        "name": "Natasya Elora Carissa",
+        "division": "Human Resources",
+        "position": "Vice President"
+      },
+      {
+        "name": "Bintang Samudro",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Nathania Calista",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Gregorius Bhisma",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Fairuz Satria Mahardika",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Hanifa Ariana",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Aulia Nur Fadhilah",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Sinta Bela Damayanti",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Naufal Thirafy Prakoso",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Muhammad Arkan Fauzan",
+        "division": "Human Resources",
+        "position": "Member"
+      },
+      {
+        "name": "Hamzah Daffa Arrayhan",
+        "division": "Human Resources",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Internet of Things",
+    "about": "Boost up your problem-solving skills using electronics and software through the Internet of Things. You will challenge your creative minds to solve day-to-day problems through ingenious IoT solutions. You will learn about Raspberry Pi, interface with the outside world, and connect devices to the internet. In due course, you will be able to create an internet-enabled electronics project.",
+    "team": [
+      {
+        "name": "Naradhipa Mahardhika Setiawan Bhary",
+        "division": "IoT",
+        "position": "Director"
+      },
+      {
+        "name": "Francis Wibisono",
+        "division": "IoT",
+        "position": "Member"
+      },
+      {
+        "name": "Sulthan Afif Althaf",
+        "division": "IoT",
+        "position": "Member"
+      },
+      {
+        "name": "Zaki Indra Yudhistira",
+        "division": "IoT",
+        "position": "Member"
+      },
+      {
+        "name": "Darian Texanditama",
+        "division": "IoT",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mobile Development",
+    "about": "Learn about the development of mobile applications from zero with Mobile Development. This year we will focus on Flutter and Kotlin - new mobile application frameworks recommended by Google. You will start from the basics: Dart and Kotlin programming language, a paradigm in mobile development, and get used to the best practices of mobile development. Eventually, you will be able to develop fully functional and refreshing mobile applications by joining Mobile Development.",
+    "team": [
+      {
+        "name": "Ari Angga Nugraha",
+        "division": "Mobile Development",
+        "position": "Director"
+      },
+      {
+        "name": "Muhamad Fauzi Ridwan",
+        "division": "Mobile Development",
+        "position": "Vice President"
+      },
+      {
+        "name": "Bima Bagas Raditya",
+        "division": "Mobile Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Louisa Natalika Jovanna",
+        "division": "Mobile Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Muhammad Erlangga",
+        "division": "Mobile Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Kevin Dharmawan",
+        "division": "Mobile Development",
+        "position": "Member"
+      },
+      {
+        "name": "Hafizh Salam",
+        "division": "Mobile Development",
+        "position": "Member"
+      },
+      {
+        "name": "Christian Raditya Restanto",
+        "division": "Mobile Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Syabib Ash-shiddiqi",
+        "division": "Mobile Development",
+        "position": "Member"
+      },
+      {
+        "name": "Niti Cahyaning Utami",
+        "division": "Mobile Development",
+        "position": "Member"
+      },
+      {
+        "name": "Adietya Christian",
+        "division": "Mobile Development",
+        "position": "Member"
+      },
+      {
+        "name": "Yudha Haris Purnama",
+        "division": "Mobile Development",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Network and Security",
+    "about": "Learn about cybersecurity happening in the real world with Network Security and Operating System. You will start from the essentials: cybersecurity, operating system, and networking, then escalate it to some advanced trick on bypassing a firewall. Be prepared to dig deeper to cyber's iceberg and realize that no system is safe.",
+    "team": [
+      {
+        "name": "Muhammad Faishol Amirul Mukminin",
+        "division": "Network and Security",
+        "position": "Director"
+      },
+      {
+        "name": "Prajna Prasetya",
+        "division": "Network and Security",
+        "position": "Vice President"
+      },
+      {
+        "name": "William William",
+        "division": "Network and Security",
+        "position": "Lead"
+      },
+      {
+        "name": "I Gede Aditya Premana Putra",
+        "division": "Network and Security",
+        "position": "Lead"
+      },
+      {
+        "name": "Zafir Rasyidi Taufik",
+        "division": "Network and Security",
+        "position": "Lead"
+      },
+      {
+        "name": "Jeremy Victor Andre",
+        "division": "Network and Security",
+        "position": "Lead"
+      },
+      {
+        "name": "Adillah Putri",
+        "division": "Network and Security",
+        "position": "Member"
+      },
+      {
+        "name": "Faris Haidar Zuhdi",
+        "division": "Network and Security",
+        "position": "Member"
+      },
+      {
+        "name": "Muhammad Iqbal Asrif",
+        "division": "Network and Security",
+        "position": "Member"
+      },
+      {
+        "name": "Arya Seputra Wibowo",
+        "division": "Network and Security",
+        "position": "Member"
+      },
+      {
+        "name": "Haikal Rahman",
+        "division": "Network and Security",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Public Relations",
+    "about": "Public Relation is dedicated to manage public exposure of RISTEK and come up with innovative solutions to broaden up RISTEK’s audiences.To support RISTEK, Public Relation will find, manage, and closely maintain relationships with external parties. This year, we divide the team into three subdivisions - marketing, content writer, and graphic design. Altogether, the subdivisions will work together to maintain a good public exposure of RISTEK.",
+    "team": [
+      {
+        "name": "Wulan Febyazzahra Putri",
+        "division": "Public Relations",
+        "position": "Director"
+      },
+      {
+        "name": "Earlene Shefila",
+        "division": "Public Relations",
+        "position": "Vice President"
+      },
+      {
+        "name": "Rifqi Hilman Saputra",
+        "division": "Public Relations",
+        "position": "Lead"
+      },
+      {
+        "name": "Hilmy Akbar",
+        "division": "Public Relations",
+        "position": "Lead"
+      },
+      {
+        "name": "Diva Amelia",
+        "division": "Public Relations",
+        "position": "Lead"
+      },
+      {
+        "name": "Trisetio Putra",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Hafiz Fadillah Sandi",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Alifah Fatimah Azzahra Hardian",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Raihansyah Yoga Adhitama",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Tsabita Sarah Indah Anggayasti",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Natasya Zahra",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Nabila Sekar Andini",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Anindya Sasriya Ibrahim",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Khansa Khairunisa Putri",
+        "division": "Public Relations",
+        "position": "Member"
+      },
+      {
+        "name": "Rani Aprilia ",
+        "division": "Public Relations",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Web Development",
+    "about": "Get valuable and career-kickstarting web development knowledge with Web Development. You will learn the best practices of web development skills and have the opportunity to build up your portfolio. Through internal classes, you will learn about the best practices of web development skills such as analytical, responsive design, HTML/CSS, and JavaScript skills. Not only that, but you will also have the opportunity to work on real projects such as developing PMB’s website and revamping SusunJadwal website.",
+    "team": [
+      {
+        "name": "Anggardha Febriano",
+        "division": "Web Development",
+        "position": "Director"
+      },
+      {
+        "name": "Shafiya Ayu Adzhani",
+        "division": "Web Development",
+        "position": "Vice President"
+      },
+      {
+        "name": "Althof Rafaella Ramdhan",
+        "division": "Web Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Dionisius Baskoro Samudra",
+        "division": "Web Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Fahdii Ajmalal Fikrie",
+        "division": "Web Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Audrey Annisa Datau",
+        "division": "Web Development",
+        "position": "Lead"
+      },
+      {
+        "name": "Muhammad Fathan Muthahhari",
+        "division": "Web Development",
+        "position": "Member"
+      },
+      {
+        "name": "Puspita Sari Matovanni",
+        "division": "Web Development",
+        "position": "Member"
+      },
+      {
+        "name": "Muhammad Urwatil Wutsqo",
+        "division": "Web Development",
+        "position": "Member"
+      },
+      {
+        "name": "Mustafa Zaki Assagaf",
+        "division": "Web Development",
+        "position": "Member"
+      },
+      {
+        "name": "Rizky Nurfaizi Widyanto",
+        "division": "Web Development",
+        "position": "Member"
+      },
+      {
+        "name": "Zuhal 'Alimul Hadi",
+        "division": "Web Development",
+        "position": "Member"
+      },
+      {
+        "name": "Gabriel Erwhian Winarso",
+        "division": "Web Development",
+        "position": "Member"
+      },
+      {
+        "name": "Fadhila Humairah",
+        "division": "Web Development",
+        "position": "Member"
+      }
+    ]
+  }
+]
