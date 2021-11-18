@@ -8,12 +8,12 @@
     "description": "With over 200k annual users and a strong cult of community, SusunJadwal has been the #1 app for helping students across the University of Indonesia to plan courses and share schedules.",
     "links": [
       {
-        icon: "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
-        link: "https://github.com/ristekoss/susunjadwal-frontend"
+        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
+        "link": "https://github.com/ristekoss/susunjadwal-frontend"
       },
       {
-        icon: "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
-        link: "http://susunjadwal.cs.ui.ac.id"
+        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
+        "link": "http://susunjadwal.cs.ui.ac.id"
       }
     ]
   },
@@ -26,12 +26,12 @@
     "description": "The easiest customizable url shortener, ever.",
     "links": [
       {
-        icon: "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
-        link: "https://github.com/ristekoss/ristek-link"
+        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
+        "link": "https://github.com/ristekoss/ristek-link"
       },
       {
-        icon: "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
-        link: "https://ristek.link/"
+        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
+        "link": "https://ristek.link/"
       }
     ]
   },
@@ -44,12 +44,12 @@
     "description": "Ever had a hard time getting information on courses you want to take? Fret no more, UlasKelas is a mobile application to help students learn about the courses they can take",
     "links": [
       {
-        icon: "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
-        link: ""
+        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
+        "link": ""
       },
       {
-        icon: "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
-        link: ""
+        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
+        "link": ""
       }
     ]
   }
