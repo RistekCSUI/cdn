@@ -1,26 +1,17 @@
 [
   {
     "icon": "inclusion",
-    "title": {
-      "name": "Inclusion",
-      "desc": "is the real ground for creativity."
-    },
+    "title": "<span className=\"text-[#C424A3]\">Inclusion</span> is the real ground for creativity.",
     "desc": "We love people that add and take things from the table, they enrich our perspective!"
   },
   {
     "icon": "innovation",
-    "title": {
-      "name": "innovation.",
-      "desc": "We’re obsessed with"
-    },
+    "title": " We’re obsessed with <span className=\"text-[#C424A3]\">innovation</span>.",
     "desc": "We’re that team that can do both—we love making radical changes yet we’re also very meticulous with data."
   },
   {
     "icon": "disrupt",
-    "title": {
-      "name": "disrupt.",
-      "desc": "We"
-    },
+    "title": "We <span className=\"text-[#C424A3]\">disrupt</span>.",
     "desc": "Innovation is not just about making bigger things. It’s about addressing the core problems and the way things are being done. "
   }
 ]
