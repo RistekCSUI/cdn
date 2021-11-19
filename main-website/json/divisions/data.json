@@ -1,6 +1,38 @@
 [
   {
     "id": 1,
+    "name": "Board of Directors",
+    "about": "Board of Directors",
+    "team": [
+      {
+        "name": "Jonathan Filbert",
+        "division": "Board of Directors",
+        "position": "Managing Director"
+      },
+      {
+        "name": "Fatih Alaydrus",
+        "division": "Board of Directors",
+        "position": "Managing Director"
+      },
+      {
+        "name": "Rania Azzahra",
+        "division": "Board of Directors",
+        "position": "Director of Finance"
+      },
+      {
+        "name": "Kamila Alifia Imanuddin",
+        "division": "Board of Directors",
+        "position": "Director of Administration"
+      },
+      {
+        "name": "Nadia Adilah Rahimullah",
+        "division": "Board of Directors",
+        "position": "Director of Products"
+      }
+    ]
+  },
+  {
+    "id": 2,
     "name": "Competitive Programming",
     "about": "Hone your analytics and problem-solving skills with Competitive Programming. You will learn problem-solving strategies and algorithms used in contests and even technical interviews on big enterprises. You will be adept in national and international competitions. Also, you will be surrounded by people who can and are willing to help you tackle all sorts of technical interview problems.",
     "team": [
@@ -52,7 +84,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Data Science",
     "about": "Data Science will give you exposure to what data scientists do daily, such as data wrangling, manipulation, modeling, to produce meaningful insights for strategic decision making. This year, Data Science will focus more on the practical side of data science, easily applicable in a wide range of data science-related tasks. We believe that taking part in this highly-achieving community will allow you to grow and maximize your potential in the field of data. If you are interested in analyzing data, programming, statistics, and working with actual data, Data Science is for you!",
     "team": [
@@ -656,59 +688,6 @@
         "name": "Fadhila Humairah",
         "division": "Web Development",
         "position": "Member"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Board of Directors",
-    "about": "Board of Directors",
-    "team": [
-      {
-        "name": "Jonathan Filbert",
-        "division": "Managing Director",
-        "position": "Managing Director"
-      },
-      {
-        "name": "Fatih Alaydrus",
-        "division": "Managing Director",
-        "position": "Managing Director"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "Finance",
-    "about": "Finance",
-    "team": [
-      {
-        "name": "Rania Azzahra",
-        "division": "Finance",
-        "position": "Director"
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Administration",
-    "about": "Administration",
-    "team": [
-      {
-        "name": "Kamila Alifia Imanuddin",
-        "division": "Administration",
-        "position": "Director"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Product",
-    "about": "Product",
-    "team": [
-      {
-        "name": "Nadia Adilah Rahimullah",
-        "division": "Product",
-        "position": "Director"
       }
     ]
   }
