@@ -1,37 +1,170 @@
 [
   {
     "img": "vercel.svg",
-    "placed": "3rd place of",
-    "competitionType": "Business IT Case",
-    "competition": "Future Innovation and Discovery IT",
-    "year": "2018"
+    "placed": "Top 4 of",
+    "competitionType": "Shopee Code League",
+    "competition": "Shopee",
+    "year": "2021"
   },
   {
     "img": "image_4.png",
-    "placed": "2nd place of",
-    "competitionType": "Business IT Case",
-    "competition": "COMPFEST 12",
+    "placed": "Finalist of",
+    "competitionType": "International Green GameJam for Youth",
+    "competition": "Tencent",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "1st, 2nd, 3rd place of",
+    "competitionType": "Most Oustanding Student",
+    "competition": "Fasilkom UI",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "1st, 3rd place of",
+    "competitionType": "DevCamp Hackathon",
+    "competition": "Tokopedia",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "1st place of",
+    "competitionType": "GEMASTIK 12 - UX Design",
+    "competition": "KEMENRISTEKDIKTI",
     "year": "2019"
   },
   {
     "img": "image_4.png",
     "placed": "1st place of",
-    "competitionType": "UX Design Competition",
-    "competition": "Gemastik XII",
-    "year": "2019"
+    "competitionType": "RedMask CTF",
+    "competition": "Indonesia CSIRT (Computer Security Incident Response Team)",
+    "year": "2020"
   },
   {
     "img": "image_4.png",
-    "placed": "3rd place of",
-    "competitionType": "Software Engineering",
-    "competition": "Hackathon Tempo-Microsoft",
-    "year": "2016"
+    "placed": "1st place of",
+    "competitionType": "Hacktoday CTF",
+    "competition": "IPB",
+    "year": "2020"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "1st place of",
+    "competitionType": "JOINTS 7 - CTF",
+    "competition": "UGM",
+    "year": "2020"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "1st place of",
+    "competitionType": "Arkavidia 7 - CTF",
+    "competition": "ITB",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "1st place of",
+    "competitionType": "B-Starton Digital Business Startup Competition",
+    "competition": "Binus",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "1st place of",
+    "competitionType": "AI Hackathon",
+    "competition": "COMPFEST",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Winner of",
+    "competitionType": "Arkavidia 7 - Datavidia",
+    "competition": "ITB",
+    "year": "2021"
   },
   {
     "img": "image_4.png",
     "placed": "2nd place of",
-    "competitionType": "Capture The Flag",
-    "competition": "Cyber Jawara",
-    "year": "2019"
+    "competitionType": "GEMASTIK 11 - Game Development",
+    "competition": "KEMENRISTEKDIKTI",
+    "year": "2018"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "2nd place of",
+    "competitionType": "Schematics - National Programming Competition (NPC)",
+    "competition": "ITS",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "2nd place of",
+    "competitionType": "Arkavidia 7 - Competitive Programming",
+    "competition": "ITB",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "4th place of",
+    "competitionType": "GEMASTIK 11 - UX Design",
+    "competition": "KEMENRISTEKDIKTI",
+    "year": "2018"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Finalist of",
+    "competitionType": "Cyberjawara CTF",
+    "competition": "Indonesia CSIRT (Computer Security Incident Response Team)",
+    "year": "2020"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Finalist of",
+    "competitionType": "GEMASTIK 14 - Data Mining",
+    "competition": "KEMENRISTEKDIKTI",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Finalist of",
+    "competitionType": "IdeatiON",
+    "competition": "OCBC NISP",
+    "year": "2021"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Runner Up of",
+    "competitionType": "JOINTS Data Mining 2020",
+    "competition": "UGM",
+    "year": "2020"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Runner Up of",
+    "competitionType": "Technology Euphoria",
+    "competition": "Universitas Sriwijaya",
+    "year": "2020"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Silver Medalist of",
+    "competitionType": "GEMASTIK 11 - IOT",
+    "competition": "KEMENRISTEKDIKTI",
+    "year": "2018"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Silver Medalist of",
+    "competitionType": "GEMASTIK 13 - Data Mining",
+    "competition": "KEMENRISTEKDIKTI",
+    "year": "2020"
+  },
+  {
+    "img": "image_4.png",
+    "placed": "Silver Medalist of",
+    "competitionType": "GEMASTIK 14 - Competitive Programming",
+    "competition": "KEMENRISTEKDIKTI",
+    "year": "2021"
   }
 ]
