@@ -534,6 +534,73 @@
   },
   {
     "id": 10,
+    "name": "Project Management",
+    "about": "Project Management is where RISTEK’s internal and external projects are managed. In Project Management, you will learn how to be a professional project manager equipped with soft and technical skills. Project Management focused on handling each project with shared responsibilities on implementing the project life cycle. Here you will take part as a project manager of a team consisting of brilliant individuals to ensure the project has a set direction of a successful outcome.",
+    "team": [
+      {
+        "name": "Bhaskoro Siddhi Pradhana",
+        "division": "Project Management",
+        "position": "Director"
+      },
+      {
+        "name": "Akbar Rafsanjhani",
+        "division": "Project Management",
+        "position": "Vice President"
+      },
+      {
+        "name": "Muhammad Ramy Azhar",
+        "division": "Project Management",
+        "position": "Lead"
+      },
+      {
+        "name": "Alvia Dibby Shadqah",
+        "division": "Project Management",
+        "position": "Lead"
+      },
+      {
+        "name": "Ayila Adzkiya S",
+        "division": "Project Management",
+        "position": "Lead"
+      },
+      {
+        "name": "Mohammed Al Kwarizmi Dwi Anggara",
+        "division": "Project Management",
+        "position": "Member"
+      },
+      {
+        "name": "Rania Devina Nandini",
+        "division": "Project Management",
+        "position": "Member"
+      },
+      {
+        "name": "Najwa Lathifah Ulima",
+        "division": "Project Management",
+        "position": "Member"
+      },
+      {
+        "name": "Fayza Azzahra Robby",
+        "division": "Project Management",
+        "position": "Member"
+      },
+      {
+        "name": "Muhammad Fachri Anandito",
+        "division": "Project Management",
+        "position": "Member"
+      },
+      {
+        "name": "Muhammad Estuputra Denaya",
+        "division": "Project Management",
+        "position": "Member"
+      },
+      {
+        "name": "Jasmine Ainal Muthia",
+        "division": "Project Management",
+        "position": "Member"
+      }
+    ]
+  },
+  {
+    "id": 11,
     "name": "Public Relations",
     "about": "Public Relation is dedicated to manage public exposure of RISTEK and come up with innovative solutions to broaden up RISTEK’s audiences.To support RISTEK, Public Relation will find, manage, and closely maintain relationships with external parties. This year, we divide the team into three subdivisions - marketing, content writer, and graphic design. Altogether, the subdivisions will work together to maintain a good public exposure of RISTEK.",
     "team": [
@@ -615,7 +682,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "Web Development",
     "about": "Get valuable and career-kickstarting web development knowledge with Web Development. You will learn the best practices of web development skills and have the opportunity to build up your portfolio. Through internal classes, you will learn about the best practices of web development skills such as analytical, responsive design, HTML/CSS, and JavaScript skills. Not only that, but you will also have the opportunity to work on real projects such as developing PMB’s website and revamping SusunJadwal website.",
     "team": [
