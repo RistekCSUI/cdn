@@ -1,0 +1,74 @@
+[
+  {
+    "src": "ristekMobile",
+    "description": "Custom Email @ristek.ui.ac.id",
+    "width": "50",
+    "height": "auto"
+  },
+  {
+    "src": "zoom",
+    "description": "Zoom Pro Account",
+    "width": "150",
+    "height": "auto"
+  },
+  {
+    "src": "aws",
+    "description": "$10K AWS Credits",
+    "width": "100",
+    "height": "auto"
+  },
+  {
+    "src": "google",
+    "description": "Google Workspace Account",
+    "width": "auto",
+    "height": "50"
+  },
+  {
+    "src": "atlassian",
+    "description": "Atlassian PM Tools (Jira, Bitbucket, Confluence)",
+    "width": "auto",
+    "height": "50"
+  },
+  {
+    "src": "miro",
+    "description": "Miro Enterprise Team",
+    "width": "auto",
+    "height": "50"
+  },
+  {
+    "src": "notion",
+    "description": "Notion Education Pro",
+    "width": "80",
+    "height": "auto"
+  },
+  {
+    "src": "grammarly",
+    "description": "Grammarly Premium",
+    "width": "auto",
+    "height": "60"
+  },
+  {
+    "src": "amplitude",
+    "description": "Scholarship Plan",
+    "width": "auto",
+    "height": "50"
+  },
+  {
+    "src": "sketch",
+    "description": "Sketch Full License",
+    "width": "80",
+    "height": "auto"
+  },
+  {
+    "src": "stripe",
+    "description": "Stripe Account",
+    "width": "auto",
+    "height": "50"
+  },
+  {
+    "src": "zeplin",
+    "description": "Zeplin Pro Subscription",
+    "width": "auto",
+    "height": "50"
+  }
+]
