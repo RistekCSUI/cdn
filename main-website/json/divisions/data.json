@@ -658,5 +658,58 @@
         "position": "Member"
       }
     ]
+  },
+  {
+    "id": 12,
+    "name": "Board of Directors",
+    "about": "Board of Directors",
+    "team": [
+      {
+        "name": "Jonathan Filbert",
+        "division": "Managing Director",
+        "position": "Managing Director"
+      },
+      {
+        "name": "Fatih Alaydrus",
+        "division": "Managing Director",
+        "position": "Managing Director"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Finance",
+    "about": "Finance",
+    "team": [
+      {
+        "name": "Rania Azzahra",
+        "division": "Finance",
+        "position": "Director"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Administration",
+    "about": "Administration",
+    "team": [
+      {
+        "name": "Kamila Alifia Imanuddin",
+        "division": "Administration",
+        "position": "Director"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Product",
+    "about": "Product",
+    "team": [
+      {
+        "name": "Nadia Adilah Rahimullah",
+        "division": "Product",
+        "position": "Director"
+      }
+    ]
   }
 ]
