@@ -6,9 +6,14 @@
     "time": "Apr 2021 - August 2021",
     "client": "PMB Fasilkom UI",
     "description": "PMB Project is a website application intended as an information system for new students to explore campus life and culture.",
-    "links": {
-      "live": "https://pmb.cs.ui.ac.id/"
-    }
+    "links": [
+      {
+        "link": ""
+      },
+      {
+        "link": "https://pmb.cs.ui.ac.id/"
+      }
+    ]
   },
   {
     "name": "BNI Mobile Bangking",
@@ -17,7 +22,7 @@
     "time": "May 2021",
     "client": "BNI",
     "description": "BNI x RISTEK is a project aiming for some new features development for BNI Mobile Banking. This project includes research activities and provides a high-fidelity prototype as the final deliverables.",
-    "links": {}
+    "links": []
   },
   {
     "name": "Houmi",
@@ -26,7 +31,7 @@
     "time": "Aug 2021 - Feb 2022",
     "client": "Houmi",
     "description": "Houmi is a mobile application that aims to create an innovative and sophisticated digital platform by developing the digitization of the property and real estate sector that will be able to assist in finding your dream home and all your home-related needs.",
-    "links": {}
+    "links": []
   },
   {
     "name": "FK Urologi Website",
@@ -35,7 +40,7 @@
     "time": "Aug 2021 - Oct 2021",
     "client": "FK UI",
     "description": "FK Urologi System is an internal system for providing the doctor and nurse to process the flow of consultation.",
-    "links": {}
+    "links": []
   },
   {
     "name": "Social+",
@@ -44,9 +49,14 @@
     "time": "Aug 2021 - Sept 2021",
     "client": "Continuum Data Indonesia",
     "description": "Social+ is a big data platform where we can see current sentiments on topics taken from social media.",
-    "links": {
-      "live": "http://socialplusid.herokuapp.com/login"
-    }
+    "links": [
+      {
+        "link": ""
+      },
+      {
+        "link": "http://socialplusid.herokuapp.com/login"
+      }
+    ]
   },
   {
     "name": "YLQ Al-Quran App",
@@ -55,7 +65,7 @@
     "time": "May 2021 - June 2021",
     "client": "Yayasan Living Quran",
     "description": "YLQ App is an Al quran where we can sort each surah based on the order of the verse, the location of Asmaul Husna, and the meaning of each word.",
-    "links": {}
+    "links": []
   },
   {
     "name": "GRAV",
@@ -64,9 +74,14 @@
     "time": "April 2021",
     "client": "-",
     "description": "A puzzle platformer where you can manipulate gravity direction. Made for B&W Jam",
-    "links": {
-      "live": "https://deaconbeacon.itch.io/project-grav"
-    }
+    "links": [
+      {
+        "link": ""
+      },
+      {
+        "link": "https://deaconbeacon.itch.io/project-grav"
+      }
+    ]
   },
   {
     "name": "The Last Forest",
@@ -75,9 +90,14 @@
     "time": "July 2021",
     "client": "-",
     "description": "Story of Elder Tree to Gather His Family. Made for Green Game Jam for Youth",
-    "links": {
-      "live": "https://agungmubarak1453.itch.io/the-last-forest"
-    }
+    "links": [
+      {
+        "link": ""
+      },
+      {
+        "link": "https://agungmubarak1453.itch.io/the-last-forest"
+      }
+    ]
   },
   {
     "name": "STASIS",
@@ -86,9 +106,14 @@
     "time": "July 2021",
     "client": "-",
     "description": "A Metroidvania Game with Stasis Gun to stasis enemies. Made for A Jam About TIME.",
-    "links": {
-      "live": "https://whreen.itch.io/stasis"
-    }
+    "links": [
+      {
+        "link": ""
+      },
+      {
+        "link": "https://whreen.itch.io/stasis"
+      }
+    ]
   },
   {
     "name": "Rano Wei and The Anomaly of Time",
@@ -97,9 +122,14 @@
     "time": "July 2021",
     "client": "-",
     "description": "A nonlinear maze-escaping game. With time manipulation abilities.",
-    "links": {
-      "live": "https://ioriu.itch.io/rano-wei-and-the-anomaly-of-time"
-    }
+    "links": [
+      {
+        "link": ""
+      },
+      {
+        "link": "https://ioriu.itch.io/rano-wei-and-the-anomaly-of-time"
+      }
+    ]
   },
   {
     "name": "Playground NetSOS",
@@ -108,8 +138,13 @@
     "time": "2021",
     "client": "-",
     "description": "A digital playground to hone your cybersecurity skills with various built-in simulated system vulnerability levels to choose and attack!",
-    "links": {
-      "live": "netsos.ristek.cs.ui.ac.id"
-    }
+    "links": [
+      {
+        "link": ""
+      },
+      {
+        "link": "netsos.ristek.cs.ui.ac.id"
+      }
+    ]
   }
 ]
