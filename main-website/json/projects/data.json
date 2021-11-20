@@ -1,53 +1,33 @@
 [
   {
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/products/sunjad.png",
+    "name": "PMB",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/PMB.png",
     "type": "external",
-    "name": "SusunJadwal",
-    "time": "July 2021",
-    "description": "With over 200k annual users and a strong cult of community, SusunJadwal has been the #1 app for helping students across the University of Indonesia to plan courses and share schedules.",
-    "links": [
-      {
-        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
-        "link": "https://github.com/ristekoss/susunjadwal-frontend"
-      },
-      {
-        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
-        "link": "http://susunjadwal.cs.ui.ac.id"
-      }
-    ]
+    "time": "Apr 2021 - August 2021",
+    "client": "PMB Fasilkom UI",
+    "description": "PMB Project is a website application intended as an information system for new students to explore campus life and culture.",
+    "links": {
+      "website": "https://pmb.cs.ui.ac.id/"
+    }
   },
   {
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/products/risteklink.jpeg",
+    "name": "BNI Mobile Bangking",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/PMB.png",
     "type": "external",
-    "name": "RISTEK.LINK",
     "time": "May 2021",
-    "description": "The easiest customizable url shortener, ever.",
-    "links": [
-      {
-        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
-        "link": "https://github.com/ristekoss/ristek-link"
-      },
-      {
-        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
-        "link": "https://ristek.link/"
-      }
-    ]
+    "client": "BNI",
+    "description": "BNI x RISTEK is a project aiming for some new features development for BNI Mobile Banking. This project includes research activities and provides a high-fidelity prototype as the final deliverables.",
+    "links": {}
   },
   {
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/products/UlasKelas.png",
+    "name": "PMB",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/PMB.png",
     "type": "external",
-    "name": "UlasKelas",
-    "time": "Coming Soon",
-    "description": "Ever had a hard time getting information on courses you want to take? Fret no more, UlasKelas is a mobile application to help students learn about the courses they can take",
-    "links": [
-      {
-        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/githubPurple.svg",
-        "link": ""
-      },
-      {
-        "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/newsPurple.svg",
-        "link": ""
-      }
-    ]
+    "time": "Apr 2021 - August 2021",
+    "client": "PMB Fasilkom UI",
+    "description": "PMB Project is a website application intended as an information system for new students to explore campus life and culture.",
+    "links": {
+      "website": "https://pmb.cs.ui.ac.id/"
+    }
   }
 ]
