@@ -69,7 +69,7 @@
   },
   {
     "name": "GRAV",
-    "img": "<iframe src=\"https://itch.io/embed/1003557\" classname=\"w-full md:w-[552px]\" frameborder=\"0\"><a href=\"https://deaconbeacon.itch.io/project-grav\">Grav by DeaconBeacon</a></iframe>",
+    "img": "<iframe src=\"https://itch.io/embed/1003557\" class=\"w-full md:w-[552px]\" frameborder=\"0\"><a href=\"https://deaconbeacon.itch.io/project-grav\">Grav by DeaconBeacon</a></iframe>",
     "type": "gamedev",
     "time": "April 2021",
     "client": "-",
@@ -85,7 +85,7 @@
   },
   {
     "name": "The Last Forest",
-    "img": "<iframe src=\"https://itch.io/embed/1145552\" classname=\"w-full md:w-[552px]\" frameborder=\"0\"><a href=\"https://agungmubarak1453.itch.io/the-last-forest\">The Last Forest by agungmubarak1453, DeaconBeacon, mythicalcat2, WhReen, raiizgaming, Iori</a></iframe>",
+    "img": "<iframe src=\"https://itch.io/embed/1145552\" class=\"w-full md:w-[552px]\" frameborder=\"0\"><a href=\"https://agungmubarak1453.itch.io/the-last-forest\">The Last Forest by agungmubarak1453, DeaconBeacon, mythicalcat2, WhReen, raiizgaming, Iori</a></iframe>",
     "type": "gamedev",
     "time": "July 2021",
     "client": "-",
@@ -101,7 +101,7 @@
   },
   {
     "name": "STASIS",
-    "img": "<iframe src=\"https://itch.io/embed/1120325\" classname=\"w-full md:w-[552px]\" frameborder=\"0\"><a href=\"https://whreen.itch.io/stasis\">STASIS by WhReen, valentinohp, mythicalcat2, ShmegMayn, lompatkodoksss, DeaconBeacon</a></iframe>",
+    "img": "<iframe src=\"https://itch.io/embed/1120325\" class=\"w-full md:w-[552px]\" frameborder=\"0\"><a href=\"https://whreen.itch.io/stasis\">STASIS by WhReen, valentinohp, mythicalcat2, ShmegMayn, lompatkodoksss, DeaconBeacon</a></iframe>",
     "type": "gamedev",
     "time": "July 2021",
     "client": "-",
@@ -117,7 +117,7 @@
   },
   {
     "name": "Rano Wei and The Anomaly of Time",
-    "img": "<iframe src=\"https://itch.io/embed/1119387\" classname=\"w-full md:w-[552px]\" frameborder=\"0\"><a href=\"https://ioriu.itch.io/rano-wei-and-the-anomaly-of-time\">Rano Wei and the Anomaly of Time by Iori, kanziebub, raiizgaming</a></iframe>",
+    "img": "<iframe src=\"https://itch.io/embed/1119387\" class=\"w-full md:w-[552px]\" frameborder=\"0\"><a href=\"https://ioriu.itch.io/rano-wei-and-the-anomaly-of-time\">Rano Wei and the Anomaly of Time by Iori, kanziebub, raiizgaming</a></iframe>",
     "type": "gamedev",
     "time": "July 2021",
     "client": "-",
