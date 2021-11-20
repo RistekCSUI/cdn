@@ -7,12 +7,12 @@
     "client": "PMB Fasilkom UI",
     "description": "PMB Project is a website application intended as an information system for new students to explore campus life and culture.",
     "links": {
-      "website": "https://pmb.cs.ui.ac.id/"
+      "live": "https://pmb.cs.ui.ac.id/"
     }
   },
   {
     "name": "BNI Mobile Bangking",
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/PMB.png",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/BNI.png",
     "type": "external",
     "time": "May 2021",
     "client": "BNI",
@@ -20,14 +20,96 @@
     "links": {}
   },
   {
-    "name": "PMB",
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/PMB.png",
+    "name": "Houmi",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/Houmi.png",
     "type": "external",
-    "time": "Apr 2021 - August 2021",
-    "client": "PMB Fasilkom UI",
-    "description": "PMB Project is a website application intended as an information system for new students to explore campus life and culture.",
+    "time": "Aug 2021 - Feb 2022",
+    "client": "Houmi",
+    "description": "Houmi is a mobile application that aims to create an innovative and sophisticated digital platform by developing the digitization of the property and real estate sector that will be able to assist in finding your dream home and all your home-related needs.",
+    "links": {}
+  },
+  {
+    "name": "FK Urologi Website",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/FKUI-Urologi.png",
+    "type": "external",
+    "time": "Aug 2021 - Oct 2021",
+    "client": "FK UI",
+    "description": "FK Urologi System is an internal system for providing the doctor and nurse to process the flow of consultation.",
+    "links": {}
+  },
+  {
+    "name": "Social+",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/social+.png",
+    "type": "external",
+    "time": "Aug 2021 - Sept 2021",
+    "client": "Continuum Data Indonesia",
+    "description": "Social+ is a big data platform where we can see current sentiments on topics taken from social media.",
     "links": {
-      "website": "https://pmb.cs.ui.ac.id/"
+      "live": "http://socialplusid.herokuapp.com/login"
+    }
+  },
+  {
+    "name": "YLQ Al-Quran App",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/YLQ.png",
+    "type": "external",
+    "time": "May 2021 - June 2021",
+    "client": "Yayasan Living Quran",
+    "description": "YLQ App is an Al quran where we can sort each surah based on the order of the verse, the location of Asmaul Husna, and the meaning of each word.",
+    "links": {}
+  },
+  {
+    "name": "GRAV",
+    "img": "<iframe src=\"https://itch.io/embed/1003557\" height=\"167\" width=\"552\" frameborder=\"0\"><a href=\"https://deaconbeacon.itch.io/project-grav\">Grav by DeaconBeacon</a></iframe>",
+    "type": "gamedev",
+    "time": "April 2021",
+    "client": "-",
+    "description": "A puzzle platformer where you can manipulate gravity direction. Made for B&W Jam",
+    "links": {
+      "live": "https://deaconbeacon.itch.io/project-grav"
+    }
+  },
+  {
+    "name": "The Last Forest",
+    "img": "<iframe src=\"https://itch.io/embed/1145552\" height=\"167\" width=\"552\" frameborder=\"0\"><a href=\"https://agungmubarak1453.itch.io/the-last-forest\">The Last Forest by agungmubarak1453, DeaconBeacon, mythicalcat2, WhReen, raiizgaming, Iori</a></iframe>",
+    "type": "gamedev",
+    "time": "July 2021",
+    "client": "-",
+    "description": "Story of Elder Tree to Gather His Family. Made for Green Game Jam for Youth",
+    "links": {
+      "live": "https://agungmubarak1453.itch.io/the-last-forest"
+    }
+  },
+  {
+    "name": "STASIS",
+    "img": "<iframe src=\"https://itch.io/embed/1120325\" height=\"167\" width=\"552\" frameborder=\"0\"><a href=\"https://whreen.itch.io/stasis\">STASIS by WhReen, valentinohp, mythicalcat2, ShmegMayn, lompatkodoksss, DeaconBeacon</a></iframe>",
+    "type": "gamedev",
+    "time": "July 2021",
+    "client": "-",
+    "description": "A Metroidvania Game with Stasis Gun to stasis enemies. Made for A Jam About TIME.",
+    "links": {
+      "live": "https://whreen.itch.io/stasis"
+    }
+  },
+  {
+    "name": "Rano Wei and The Anomaly of Time",
+    "img": "<iframe src=\"https://itch.io/embed/1119387\" height=\"167\" width=\"552\" frameborder=\"0\"><a href=\"https://ioriu.itch.io/rano-wei-and-the-anomaly-of-time\">Rano Wei and the Anomaly of Time by Iori, kanziebub, raiizgaming</a></iframe>",
+    "type": "gamedev",
+    "time": "July 2021",
+    "client": "-",
+    "description": "A nonlinear maze-escaping game. With time manipulation abilities.",
+    "links": {
+      "live": "https://ioriu.itch.io/rano-wei-and-the-anomaly-of-time"
+    }
+  },
+  {
+    "name": "Playground NetSOS",
+    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/netsos.png",
+    "type": "netsos",
+    "time": "2021",
+    "client": "-",
+    "description": "A digital playground to hone your cybersecurity skills with various built-in simulated system vulnerability levels to choose and attack!",
+    "links": {
+      "live": "netsos.ristek.cs.ui.ac.id"
     }
   }
 ]
