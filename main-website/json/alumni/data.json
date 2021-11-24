@@ -1,44 +1,37 @@
 [
    {
-      "img":"hack+.svg",
+      "img":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/alumni/ricky_putra_nursalim.jpeg",
       "name":"Ricky",
       "company":"Shopee",
       "message":"“For me, joining RISTEK is like being part of a tech cult, where everyone inside the cult lives and breathes technology. It's super tough to stagnate in such a growth mindset environment. It's not for everyone, but it definitely helped me become the person I am today.”",
       "title":"Ricky Putra Nursalim, Senior Software Engineer @ Shopee"
    },
    {
-      "img":"hack+.svg",
+      "img":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/alumni/ivana_irene_thomas.jpeg",
       "name":"Irene",
       "company":"Motional",
       "message":"“Within the two years that I was part of Ristek, I met really cool people and had the opportunity to work together and learn with them. Through working together with very smart and competent people in Ristek, I was also connected and got referrals to internship opportunities which helped a lot in building my experience before graduating. Ristek is definitely one of the most important experiences I had in Fasilkom!”",
       "title":"Ivana Irene Thomas, Software Engineer @ Motional"
    },
    {
-      "img":"hack+.svg",
+      "img":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/alumni/albertus_angga_raharja.jpeg",
       "name":"Angga",
       "company":"STRIPE",
       "message":"“Ristek definitely played a crucial in my software engineering career by providing me with training, connections, friends that constantly motivates me to grow together and challenge ourselves to become a better coder. Can’t recommend any better organizations/activities to join while you are an active student!”",
       "title":"Albertus Angga Raharja, Software Engineer @ STRIPE"
    },
    {
-      "img":"hack+.svg",
+      "img":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/alumni/stephen_jaya.jpeg",
       "name":"Stephen",
       "company":"Shopee",
       "message":"“Being a member of RISTEK, i learnt a bunch of things from my friends, seniors, lecturers and was able to give back the learnings to my juniors and even do some competitons with them~ It was such a wonderful opportunity to be in such community where everyone (not just its members!) to learn, explore, and be the better version of themselves while also able to giving back to Fasilkom!”",
       "title":"Stephen Jaya, Software Engineer @ Shopee"
    },
    {
-      "img":"hack+.svg",
+      "img":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/alumni/hera_mentari.jpeg",
       "name":"Hera",
       "company":"Envision Digital",
       "message":"“RISTEK invests in the growth of its members, large part of knowledge & experiences I gained are highly transferable where it leads me to grow my career as a Product (UX) Designer. There are tons of learning resources and highly talented people who will guide you through every step of the way. Your journey to make a great impact for the world starts here, join now!”",
       "title":"Hera Mentari, Product Designer @ Envision Digital"
-   },
-   {
-      "img":"hack+.svg",
-      "name":"Aldi",
-      "company":"Google",
-      "message":"“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.”",
-      "title":"Aldi Fahrezi, Product Design Lead at Google"
    }
 ]
