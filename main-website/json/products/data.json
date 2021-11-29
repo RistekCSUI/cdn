@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/projects/sunjad.png",
+    "img": "https://raw.githubusercontent.com/RistekCSUI/cdn/main/main-website/photos/products/sunjad.png",
     "logo": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/products/logosunjad.png",
     "name": "SusunJadwal",
     "client": "-",
@@ -21,7 +21,7 @@
   },
   {
     "id": 2,
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/products/risteklink.jpeg",
+    "img": "https://raw.githubusercontent.com/RistekCSUI/cdn/main/main-website/photos/products/risteklink.png",
     "logo": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/products/logoristeklink.png",
     "name": "RISTEK.LINK",
     "client": "-",
@@ -41,7 +41,7 @@
   },
   {
     "id": 3,
-    "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/products/UlasKelas.png",
+    "img": "https://raw.githubusercontent.com/RistekCSUI/cdn/main/main-website/photos/products/UlasKelas.png",
     "logo": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/photos/products/logoulaskelas.png",
     "name": "UlasKelas",
     "client": "-",
