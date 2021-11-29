@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Board of Directors",
-    "about": "Board of Directors",
+    "name": "Executive Fellows",
+    "about": "Executive Fellows",
     "team": [
       {
         "name": "Jonathan Filbert",
-        "division": "Board of Directors",
+        "division": "Executive Fellows",
         "position": "Managing Director"
       },
       {
         "name": "Fatih Alaydrus",
-        "division": "Board of Directors",
+        "division": "Executive Fellows",
         "position": "Managing Director"
       },
       {
         "name": "Rania Azzahra",
-        "division": "Board of Directors",
+        "division": "Executive Fellows",
         "position": "Director of Finance"
       },
       {
         "name": "Kamila Alifia Imanuddin",
-        "division": "Board of Directors",
+        "division": "Executive Fellows",
         "position": "Director of Administration"
       },
       {
         "name": "Nadia Adilah Rahimullah",
-        "division": "Board of Directors",
+        "division": "Executive Fellows",
         "position": "Director of Products"
       }
     ]
