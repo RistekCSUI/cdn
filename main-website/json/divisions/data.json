@@ -176,6 +176,26 @@
         "position": "Vice President"
       },
       {
+        "name": "Thalia Teresa",
+        "division": "Digital Product Design",
+        "position": "Lead"
+      },
+      {
+        "name": "Rio Fernando Alexander",
+        "division": "Digital Product Design",
+        "position": "Lead"
+      },
+      {
+        "name": "Aaya Faizah",
+        "division": "Digital Product Design",
+        "position": "Lead"
+      },
+      {
+        "name": "Eugene Brigita Lauw",
+        "division": "Digital Product Design",
+        "position": "Lead"
+      },
+      {
         "name": "Della Patricia Siregar",
         "division": "Digital Product Design",
         "position": "Member"
@@ -191,11 +211,6 @@
         "position": "Member"
       },
       {
-        "name": "Eugene Brigita Lauw",
-        "division": "Digital Product Design",
-        "position": "Lead"
-      },
-      {
         "name": "Farah Mumtaza",
         "division": "Digital Product Design",
         "position": "Member"
@@ -209,21 +224,6 @@
         "name": "Rayhan Maulana Akbar",
         "division": "Digital Product Design",
         "position": "Member"
-      },
-      {
-        "name": "Thalia Teresa",
-        "division": "Digital Product Design",
-        "position": "Lead"
-      },
-      {
-        "name": "Rio Fernando Alexander",
-        "division": "Digital Product Design",
-        "position": "Lead"
-      },
-      {
-        "name": "Aaya Faizah",
-        "division": "Digital Product Design",
-        "position": "Lead"
       }
     ]
   },
@@ -439,14 +439,14 @@
         "position": "Member"
       },
       {
-        "name": "Hafizh Salam",
-        "division": "Mobile Development",
-        "position": "Member"
-      },
-      {
         "name": "Christian Raditya Restanto",
         "division": "Mobile Development",
         "position": "Lead"
+      },
+      {
+        "name": "Hafizh Salam",
+        "division": "Mobile Development",
+        "position": "Member"
       },
       {
         "name": "Syabib Ash-shiddiqi",
