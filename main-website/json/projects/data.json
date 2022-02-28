@@ -132,6 +132,22 @@
     ]
   },
   {
+    "name": "Infinite Hotel",
+    "img": "<iframe src=\"https://itch.io/embed-upload/5339781\" height=\"167\" width=\"100%\" frameborder=\"0\"><a href=\"https://team-ristek.itch.io/infinite-hotel\">Play Infinite Hotel on itch.io</a></iframe>",
+    "type": "gamedev",
+    "time": "July 2021",
+    "client": "-",
+    "description": "A nonlinear maze-escaping game. With time manipulation abilities.",
+    "links": [
+      {
+        "link": ""
+      },
+      {
+        "link": "https://team-ristek.itch.io/infinite-hotel"
+      }
+    ]
+  },
+  {
     "name": "Playground NetSOS",
     "img": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/projects/netsos.png",
     "type": "netsos",
