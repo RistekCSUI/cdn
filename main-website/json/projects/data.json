@@ -133,7 +133,7 @@
   },
   {
     "name": "Infinite Hotel",
-    "img": "<iframe src=\"https://itch.io/embed-upload/5339781\" height=\"167\" width=\"100%\" frameborder=\"0\"><a href=\"https://team-ristek.itch.io/infinite-hotel\">Play Infinite Hotel on itch.io</a></iframe>",
+    "img": "<iframe src=\"https://itch.io/embed/5339781\" height=\"167\" width=\"100%\" frameborder=\"0\"><a href=\"https://team-ristek.itch.io/infinite-hotel\">Play Infinite Hotel on itch.io</a></iframe>",
     "type": "gamedev",
     "time": "July 2021",
     "client": "-",
