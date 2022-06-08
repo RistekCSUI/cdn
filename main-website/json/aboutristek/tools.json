@@ -13,7 +13,7 @@
   },
   {
     "src": "aws",
-    "description": "$10K AWS Credits",
+    "description": "Amazon Web Service",
     "width": "100",
     "height": "auto"
   },
@@ -66,8 +66,8 @@
     "height": "50"
   },
   {
-    "src": "zeplin",
-    "description": "Zeplin Pro Subscription",
+    "src": "datacamp",
+    "description": "DataCamp Learn License",
     "width": "auto",
     "height": "50"
   }
