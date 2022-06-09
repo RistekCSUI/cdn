@@ -69,6 +69,7 @@
     "src": "datacamp",
     "description": "DataCamp Learn License",
     "width": "auto",
-    "height": "50"
+    "height": "50",
+    "link": "datacamp.com/donates"
   }
 ]
