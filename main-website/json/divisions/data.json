@@ -5,29 +5,34 @@
     "about": "Executive Fellows function as our leadership board in setting the firm’s directions, policies, and strategic goals. It includes the managing directors and directors of product, administrations, and finance.",
     "team": [
       {
-        "name": "Jonathan Filbert",
-        "division": "Executive Fellows",
-        "position": "Managing Director"
+        "position": "Managing Director",
+        "name": "Widyanto Hadi Nugroho",
+        "division": "Executive Fellows"
       },
       {
-        "name": "Fatih Alaydrus",
-        "division": "Executive Fellows",
-        "position": "Managing Director"
+        "position": "Managing Director",
+        "name": "Darren Ngoh",
+        "division": "Executive Fellows"
       },
       {
-        "name": "Rania Azzahra",
-        "division": "Executive Fellows",
-        "position": "Director of Finance"
+        "position": "Director of Finance",
+        "name": "Nikita Jacey Natania",
+        "division": "Executive Fellows"
       },
       {
-        "name": "Kamila Alifia Imanuddin",
-        "division": "Executive Fellows",
-        "position": "Director of Administration"
+        "position": "Director of Administration",
+        "name": "Ayesha Indira Wijaya",
+        "division": "Executive Fellows"
       },
       {
-        "name": "Nadia Adilah Rahimullah",
-        "division": "Executive Fellows",
-        "position": "Director of Products"
+        "position": "Director of Product",
+        "name": "Aldi Naufal Fitrah",
+        "division": "Executive Fellows"
+      },
+      {
+        "position": "Director of Product",
+        "name": "Rio Fernando Alexander",
+        "division": "Executive Fellows"
       }
     ]
   },
@@ -37,54 +42,59 @@
     "about": "Hone your analytics and problem-solving skills with Competitive Programming. You will learn problem-solving strategies and algorithms used in contests and even technical interviews on big enterprises. You will be adept in national and international competitions. Also, you will be surrounded by people who can and are willing to help you tackle all sorts of technical interview problems.",
     "team": [
       {
-        "name": "Inigo Ramli",
-        "division": "Competitive Programming",
-        "position": "Director"
-      },
-      {
-        "name": "Hocky Yudhiono",
-        "division": "Competitive Programming",
-        "position": "Vice President"
-      },
-      {
-        "name": "Muhammad Kenshin Himura Mahmuddin",
-        "division": "Competitive Programming",
-        "position": "Lead"
-      },
-      {
+        "position": "Director",
         "name": "Steven Novaryo",
-        "division": "Competitive Programming",
-        "position": "Lead"
+        "division": "Competitive Programming"
       },
       {
-        "name": "Richie Christiansen Senlia",
-        "division": "Competitive Programming",
-        "position": "Lead"
+        "position": "VP",
+        "name": "Muhammad Irham Luthfi",
+        "division": "Competitive Programming"
       },
       {
-        "name": "I Made Indra Mahaarta",
-        "division": "Competitive Programming",
-        "position": "Member"
+        "position": "Lead",
+        "name": "Immanuel",
+        "division": "Competitive Programming"
       },
       {
-        "name": "Immanuel Immanuel",
-        "division": "Competitive Programming",
-        "position": "Member"
-      },
-      {
+        "position": "Lead",
         "name": "Jonathan Nicholas",
-        "division": "Competitive Programming",
-        "position": "Member"
+        "division": "Competitive Programming"
       },
       {
-        "name": "Muhammad Fikri Haryanto",
-        "division": "Competitive Programming",
-        "position": "Member"
+        "position": "Lead",
+        "name": "Kausar Meutuwah",
+        "division": "Competitive Programming"
       },
       {
-        "name": "Dimas Tri Kurniawan",
-        "division": "Competitive Programming",
-        "position": "Member"
+        "position": "Lead",
+        "name": "Muhammad Halif",
+        "division": "Competitive Programming"
+      },
+      {
+        "position": "Member",
+        "name": "Ahmadhi Prananta Hastiputra",
+        "division": "Competitive Programming"
+      },
+      {
+        "position": "Member",
+        "name": "Bimasena Putra",
+        "division": "Competitive Programming"
+      },
+      {
+        "position": "Member",
+        "name": "David Alexander",
+        "division": "Competitive Programming"
+      },
+      {
+        "position": "Member",
+        "name": "Eugenius Mario Situmorang",
+        "division": "Competitive Programming"
+      },
+      {
+        "position": "Member",
+        "name": "Ferdinand Halim Santoso",
+        "division": "Competitive Programming"
       }
     ]
   },
@@ -94,74 +104,54 @@
     "about": "Data Science will give you exposure to what data scientists do daily, such as data wrangling, manipulation, modeling, to produce meaningful insights for strategic decision making. This year, Data Science will focus more on the practical side of data science, easily applicable in a wide range of data science-related tasks. We believe that taking part in this highly-achieving community will allow you to grow and maximize your potential in the field of data. If you are interested in analyzing data, programming, statistics, and working with actual data, Data Science is for you!",
     "team": [
       {
-        "name": "Galangkangin Gotera",
-        "division": "Data Science",
-        "position": "Director"
-      },
-      {
-        "name": "Widyanto Hadi N",
-        "division": "Data Science",
-        "position": "Vice President"
-      },
-      {
-        "name": "Fathinah Asma Izzati",
-        "division": "Data Science",
-        "position": "Lead"
-      },
-      {
+        "position": "Director",
         "name": "Eko Julianto Salim",
-        "division": "Data Science",
-        "position": "Lead"
+        "division": "Data Science"
       },
       {
-        "name": "Darren Ngoh",
-        "division": "Data Science",
-        "position": "Lead"
+        "position": "VP",
+        "name": "Ardhani Dzaky Ralfiano",
+        "division": "Data Science"
       },
       {
-        "name": "Jovi Handono Hutama",
-        "division": "Data Science",
-        "position": "Lead"
-      },
-      {
-        "name": "Gitan Sahl Tazakha Wijaya",
-        "division": "Data Science",
-        "position": "Member"
-      },
-      {
-        "name": "Debra Mazaya",
-        "division": "Data Science",
-        "position": "Member"
-      },
-      {
-        "name": "Geoffrey Tyndall",
-        "division": "Data Science",
-        "position": "Member"
-      },
-      {
-        "name": "Markus Leonard Wijaya",
-        "division": "Data Science",
-        "position": "Member"
-      },
-      {
-        "name": "Muhammad Fauzul Akbar",
-        "division": "Data Science",
-        "position": "Member"
-      },
-      {
-        "name": "Rizki Kurniawan",
-        "division": "Data Science",
-        "position": "Member"
-      },
-      {
+        "position": "Lead",
         "name": "Fikri Aufaa Zain",
-        "division": "Data Science",
-        "position": "Member"
+        "division": "Data Science"
       },
       {
-        "name": "Ardhani Dzaky",
-        "division": "Data Science",
-        "position": "Member"
+        "position": "Lead",
+        "name": "Geoffrey Tyndall",
+        "division": "Data Science"
+      },
+      {
+        "position": "Member",
+        "name": "Adrian Larry Ananda Sudarthio",
+        "division": "Data Science"
+      },
+      {
+        "position": "Member",
+        "name": "Bryan Tjandra",
+        "division": "Data Science"
+      },
+      {
+        "position": "Member",
+        "name": "Made Swastika Nata Negara",
+        "division": "Data Science"
+      },
+      {
+        "position": "Member",
+        "name": "Muhammad Agil Ghifari",
+        "division": "Data Science"
+      },
+      {
+        "position": "Member",
+        "name": "Nyoo Steven Christopher",
+        "division": "Data Science"
+      },
+      {
+        "position": "Member",
+        "name": "Rahmat Bryan Naufal",
+        "division": "Data Science"
       }
     ]
   },
@@ -171,64 +161,64 @@
     "about": "Digital Product Design is the right place for you for those who are passionate about designing a product. In designing those products, you will learn how to use the UI/UX principles correctly and research the user problems directly. This year, Digital Product Design aims to collaborate with Web Development to produce digital products with interactive and attractive designs and a good user experience. Here, you have the chance to build your design portfolio that will be useful for your future product design career.",
     "team": [
       {
-        "name": "Muhamad Raihan Fikriansyah",
-        "division": "Digital Product Design",
-        "position": "Director"
+        "position": "Director",
+        "name": "Wening Dyah Locitaresmi",
+        "division": "Digital Product Design"
       },
       {
-        "name": "Astrida Nayla",
-        "division": "Digital Product Design",
-        "position": "Vice President"
+        "position": "VP",
+        "name": "Indri Klarissa Ramadhanti",
+        "division": "Digital Product Design"
       },
       {
-        "name": "Thalia Teresa",
-        "division": "Digital Product Design",
-        "position": "Lead"
+        "position": "Lead",
+        "name": "Anastasia Audi Wulandari",
+        "division": "Digital Product Design"
       },
       {
-        "name": "Rio Fernando Alexander",
-        "division": "Digital Product Design",
-        "position": "Lead"
+        "position": "Lead",
+        "name": "Farah Mumtaza Budiawan",
+        "division": "Digital Product Design"
       },
       {
-        "name": "Aaya Faizah",
-        "division": "Digital Product Design",
-        "position": "Lead"
-      },
-      {
-        "name": "Eugene Brigita Lauw",
-        "division": "Digital Product Design",
-        "position": "Lead"
-      },
-      {
-        "name": "Della Patricia Siregar",
-        "division": "Digital Product Design",
-        "position": "Member"
-      },
-      {
-        "name": "Reyhan Ariq Syahalam",
-        "division": "Digital Product Design",
-        "position": "Member"
-      },
-      {
-        "name": "Luthmilla Sari Bhaskara",
-        "division": "Digital Product Design",
-        "position": "Member"
-      },
-      {
-        "name": "Farah Mumtaza",
-        "division": "Digital Product Design",
-        "position": "Member"
-      },
-      {
-        "name": "Najmi Aliya",
-        "division": "Digital Product Design",
-        "position": "Member"
-      },
-      {
+        "position": "Lead",
         "name": "Rayhan Maulana Akbar",
-        "division": "Digital Product Design",
-        "position": "Member"
+        "division": "Digital Product Design"
+      },
+      {
+        "position": "Lead",
+        "name": "Reyhan Ariq Syahalam",
+        "division": "Digital Product Design"
+      },
+      {
+        "position": "Member",
+        "name": "Anindya Sasriya Ibrahim",
+        "division": "Digital Product Design"
+      },
+      {
+        "position": "Member",
+        "name": "Annisa Az Zahra",
+        "division": "Digital Product Design"
+      },
+      {
+        "position": "Member",
+        "name": "Graciella Regina Indria Suwono",
+        "division": "Digital Product Design"
+      },
+      {
+        "position": "Member",
+        "name": "Joan Isva Shanti Andrea",
+        "division": "Digital Product Design"
+      },
+      {
+        "position": "Member",
+        "name": "Muhammad Arya Adirianto",
+        "division": "Digital Product Design"
+      },
+      {
+        "position": "Member",
+        "name": "Priyanka Devi",
+        "division": "Digital Product Design"
       }
     ]
   },
@@ -238,141 +228,151 @@
     "about": "Explore your interest and capabilities in developing your game with Game Development. You will have the chance to improve your skills in developing games by using popular game engines. By learning the aspects of game design, the basics of coding patterns, and implementing state machines in game development, you will be able to work as a team in developing games by joining Game Development.",
     "team": [
       {
-        "name": "Ahmad Haydar Alkaf",
-        "division": "Game Development",
-        "position": "Director"
-      },
-      {
+        "position": "Director",
         "name": "Agung Mubarak",
-        "division": "Game Development",
-        "position": "Vice President"
+        "division": "Game Development"
       },
       {
-        "name": "Hendrico Kristiawan",
-        "division": "Game Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Beltsazar Anugrah Sotardodo",
-        "division": "Game Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Ryanda Mahdy Ananda",
-        "division": "Game Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Josephine Ceria",
-        "division": "Game Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Adam Ghaviyasha",
-        "division": "Game Development",
-        "position": "Lead"
-      },
-      {
+        "position": "VP",
         "name": "Raihan Rizqi Muhtadiin",
-        "division": "Game Development",
-        "position": "Member"
+        "division": "Game Development"
       },
       {
-        "name": "Nabila Khansa",
-        "division": "Game Development",
-        "position": "Member"
+        "position": "VP",
+        "name": "Ryanda Mahdy Ananda",
+        "division": "Game Development"
       },
       {
+        "position": "Lead",
         "name": "Ezra Pasha Ramadhansyah",
-        "division": "Game Development",
-        "position": "Member"
+        "division": "Game Development"
       },
       {
-        "name": "M. Faiq Hilmi Musyaffa",
-        "division": "Game Development",
-        "position": "Member"
-      },
-      {
-        "name": "Faris Muzhaffar",
-        "division": "Game Development",
-        "position": "Member"
-      },
-      {
+        "position": "Lead",
         "name": "Muhammad Ilham Ghozali",
-        "division": "Game Development",
-        "position": "Member"
+        "division": "Game Development"
       },
       {
+        "position": "Lead",
+        "name": "Nabila Khansa",
+        "division": "Game Development"
+      },
+      {
+        "position": "Lead",
         "name": "Valentino Herdyan Permadi",
-        "division": "Game Development",
-        "position": "Member"
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Aidah Novallia Putri",
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Bonaventura Galang Kristabel Angipanglipur Hatmasasmita",
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Divany Harryndira",
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Emir Shamsuddin Fadhlurrahman",
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Fahmi Sabila Firdaus",
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Muhammad Rifqi Praditya",
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Rakan Fasya Athhar Rayyan",
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Ruben Tanoey",
+        "division": "Game Development"
+      },
+      {
+        "position": "Member",
+        "name": "Syafiqo Arashy Octaviano",
+        "division": "Game Development"
       }
     ]
   },
   {
     "id": 6,
-    "name": "Human Resources",
-    "about": "Human Resources is the baseline of all RISTEK’s divisions.Human Resources aims to encourage and cultivate every member of RISTEK. Human Resources will make sure that every member gains every value RISTEK has to offer. Together with your division, you’ll create an impactful team that will give you not only soft skill benefits but also a hands-on learning experience.",
+    "name": "People Operations",
+    "about": "People Operations is the baseline of all RISTEK’s divisions.People Operations aims to encourage and cultivate every member of RISTEK. People Operations will make sure that every member gains every value RISTEK has to offer. Together with your division, you’ll create an impactful team that will give you not only soft skill benefits but also a hands-on learning experience.",
     "team": [
       {
-        "name": "Riri Edwina Renaganis",
-        "division": "Human Resources",
-        "position": "Director"
+        "position": "Director",
+        "name": "Nandini Antya Kirana",
+        "division": "People Operations"
       },
       {
-        "name": "Natasya Elora Carissa",
-        "division": "Human Resources",
-        "position": "Vice President"
+        "position": "VP",
+        "name": "Az-Zahra Syamsa Rahmita Putri",
+        "division": "People Operations"
       },
       {
-        "name": "Bintang Samudro",
-        "division": "Human Resources",
-        "position": "Member"
+        "position": "Member",
+        "name": "Ananda Fadhil Eka Prakoso",
+        "division": "People Operations"
       },
       {
-        "name": "Nathania Calista",
-        "division": "Human Resources",
-        "position": "Member"
+        "position": "Member",
+        "name": "Ardelia Syahira Yudiva",
+        "division": "People Operations"
       },
       {
-        "name": "Gregorius Bhisma",
-        "division": "Human Resources",
-        "position": "Member"
-      },
-      {
-        "name": "Fairuz Satria Mahardika",
-        "division": "Human Resources",
-        "position": "Member"
-      },
-      {
-        "name": "Hanifa Ariana",
-        "division": "Human Resources",
-        "position": "Member"
-      },
-      {
+        "position": "Member",
         "name": "Aulia Nur Fadhilah",
-        "division": "Human Resources",
-        "position": "Member"
+        "division": "People Operations"
       },
       {
-        "name": "Sinta Bela Damayanti",
-        "division": "Human Resources",
-        "position": "Member"
+        "position": "Member",
+        "name": "Ekky Aliansyah",
+        "division": "People Operations"
       },
       {
-        "name": "Naufal Thirafy Prakoso",
-        "division": "Human Resources",
-        "position": "Member"
+        "position": "Member",
+        "name": "Immanuel Gerald Ronaldo Nadeak",
+        "division": "People Operations"
       },
       {
-        "name": "Muhammad Arkan Fauzan",
-        "division": "Human Resources",
-        "position": "Member"
+        "position": "Member",
+        "name": "Maida Saniyah Lutfi",
+        "division": "People Operations"
       },
       {
-        "name": "Hamzah Daffa Arrayhan",
-        "division": "Human Resources",
-        "position": "Member"
+        "position": "Member",
+        "name": "Marcellinus Elbert",
+        "division": "People Operations"
+      },
+      {
+        "position": "Member",
+        "name": "Najwa Kariza Anjelia",
+        "division": "People Operations"
+      },
+      {
+        "position": "Member",
+        "name": "Raissa Adlina Febrianny",
+        "division": "People Operations"
+      },
+      {
+        "position": "Member",
+        "name": "Syifa Mumtaz Wazdy",
+        "division": "People Operations"
       }
     ]
   },
@@ -382,29 +382,34 @@
     "about": "Boost up your problem-solving skills using electronics and software through the Internet of Things. You will challenge your creative minds to solve day-to-day problems through ingenious IoT solutions. You will learn about Raspberry Pi, interface with the outside world, and connect devices to the internet. In due course, you will be able to create an internet-enabled electronics project.",
     "team": [
       {
-        "name": "Naradhipa Mahardhika Setiawan Bhary",
-        "division": "IoT",
-        "position": "Director"
+        "position": "Director",
+        "name": "Samuel",
+        "division": "Internet of Things"
       },
       {
-        "name": "Francis Wibisono",
-        "division": "IoT",
-        "position": "Member"
+        "position": "VP",
+        "name": "Samuel Mulatua Jeremy",
+        "division": "Internet of Things"
       },
       {
-        "name": "Sulthan Afif Althaf",
-        "division": "IoT",
-        "position": "Member"
+        "position": "Member",
+        "name": "Alfredo Austin",
+        "division": "Internet of Things"
       },
       {
-        "name": "Zaki Indra Yudhistira",
-        "division": "IoT",
-        "position": "Member"
+        "position": "Member",
+        "name": "Daffa Ilham Restupratama",
+        "division": "Internet of Things"
       },
       {
-        "name": "Darian Texanditama",
-        "division": "IoT",
-        "position": "Member"
+        "position": "Member",
+        "name": "Hugo Sulaiman Setiawan",
+        "division": "Internet of Things"
+      },
+      {
+        "position": "Member",
+        "name": "Razita Afrina Nuriyan",
+        "division": "Internet of Things"
       }
     ]
   },
@@ -414,64 +419,69 @@
     "about": "Learn about the development of mobile applications from zero with Mobile Development. This year we will focus on Flutter and Kotlin - new mobile application frameworks recommended by Google. You will start from the basics: Dart and Kotlin programming language, a paradigm in mobile development, and get used to the best practices of mobile development. Eventually, you will be able to develop fully functional and refreshing mobile applications by joining Mobile Development.",
     "team": [
       {
-        "name": "Ari Angga Nugraha",
-        "division": "Mobile Development",
-        "position": "Director"
-      },
-      {
+        "position": "Director",
         "name": "Muhamad Fauzi Ridwan",
-        "division": "Mobile Development",
-        "position": "Vice President"
+        "division": "Mobile Development"
       },
       {
-        "name": "Bima Bagas Raditya",
-        "division": "Mobile Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Louisa Natalika Jovanna",
-        "division": "Mobile Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Muhammad Erlangga",
-        "division": "Mobile Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Kevin Dharmawan",
-        "division": "Mobile Development",
-        "position": "Member"
-      },
-      {
-        "name": "Christian Raditya Restanto",
-        "division": "Mobile Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Hafizh Salam",
-        "division": "Mobile Development",
-        "position": "Member"
-      },
-      {
-        "name": "Syabib Ash-shiddiqi",
-        "division": "Mobile Development",
-        "position": "Member"
-      },
-      {
-        "name": "Niti Cahyaning Utami",
-        "division": "Mobile Development",
-        "position": "Member"
-      },
-      {
-        "name": "Adietya Christian",
-        "division": "Mobile Development",
-        "position": "Member"
-      },
-      {
+        "position": "VP",
         "name": "Yudha Haris Purnama",
-        "division": "Mobile Development",
-        "position": "Member"
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Lead",
+        "name": "Adietya Christian",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Lead",
+        "name": "Hafizh Salam",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Lead",
+        "name": "Kevin Dharmawan",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Lead",
+        "name": "Syabib Ash-Shiddiqi",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Member",
+        "name": "Brandon Ivander",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Member",
+        "name": "Fadhlan Hasyim",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Member",
+        "name": "Muhammad Athallah",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Member",
+        "name": "Nur Fajar Sayyidul Ayyam",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Member",
+        "name": "Sabyna Maharani",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Member",
+        "name": "Wayan Angga Putra Aldita",
+        "division": "Mobile Development"
+      },
+      {
+        "position": "Member",
+        "name": "Wega Syafitra Winarso",
+        "division": "Mobile Development"
       }
     ]
   },
@@ -481,59 +491,69 @@
     "about": "Learn about cybersecurity happening in the real world with Network Security and Operating System. You will start from the essentials: cybersecurity, operating system, and networking, then escalate it to some advanced trick on bypassing a firewall. Be prepared to dig deeper to cyber's iceberg and realize that no system is safe.",
     "team": [
       {
+        "position": "Director",
         "name": "Muhammad Faishol Amirul Mukminin",
-        "division": "Network and Security",
-        "position": "Director"
+        "division": "Network and Security"
       },
       {
-        "name": "Prajna Prasetya",
-        "division": "Network and Security",
-        "position": "Vice President"
+        "position": "VP",
+        "name": "Prajna",
+        "division": "Network and Security"
       },
       {
-        "name": "William William",
-        "division": "Network and Security",
-        "position": "Lead"
-      },
-      {
-        "name": "I Gede Aditya Premana Putra",
-        "division": "Network and Security",
-        "position": "Lead"
-      },
-      {
-        "name": "Zafir Rasyidi Taufik",
-        "division": "Network and Security",
-        "position": "Lead"
-      },
-      {
-        "name": "Jeremy Victor Andre",
-        "division": "Network and Security",
-        "position": "Lead"
-      },
-      {
-        "name": "Adillah Putri",
-        "division": "Network and Security",
-        "position": "Member"
-      },
-      {
+        "position": "Lead",
         "name": "Faris Haidar Zuhdi",
-        "division": "Network and Security",
-        "position": "Member"
+        "division": "Network and Security"
       },
       {
-        "name": "Muhammad Iqbal Asrif",
-        "division": "Network and Security",
-        "position": "Member"
+        "position": "Lead",
+        "name": "Gregorius Bhisma",
+        "division": "Network and Security"
       },
       {
-        "name": "Arya Seputra Wibowo",
-        "division": "Network and Security",
-        "position": "Member"
-      },
-      {
+        "position": "Lead",
         "name": "Haikal Rahman",
-        "division": "Network and Security",
-        "position": "Member"
+        "division": "Network and Security"
+      },
+      {
+        "position": "Lead",
+        "name": "Iqbal Asrif",
+        "division": "Network and Security"
+      },
+      {
+        "position": "Member",
+        "name": "Dafi Nafidz Radhiyya",
+        "division": "Network and Security"
+      },
+      {
+        "position": "Member",
+        "name": "Dinda Adriani Siregar",
+        "division": "Network and Security"
+      },
+      {
+        "position": "Member",
+        "name": "Kevin Alexander",
+        "division": "Network and Security"
+      },
+      {
+        "position": "Member",
+        "name": "Reyza Abyan Gerrit Caloh",
+        "division": "Network and Security"
+      },
+      {
+        "position": "Member",
+        "name": "Son Sulung Suryahatta Asnan",
+        "division": "Network and Security"
+      },
+      {
+        "position": "Member",
+        "name": "Taufik Pragusga",
+        "division": "Network and Security"
+      },
+      {
+        "position": "Member",
+        "name": "Yan Christofer S",
+        "division": "Network and Security"
       }
     ]
   },
@@ -543,146 +563,166 @@
     "about": "Project Management is where RISTEK’s internal and external projects are managed. In Project Management, you will learn how to be a professional project manager equipped with soft and technical skills. Project Management focused on handling each project with shared responsibilities on implementing the project life cycle. Here you will take part as a project manager of a team consisting of brilliant individuals to ensure the project has a set direction of a successful outcome.",
     "team": [
       {
-        "name": "Bhaskoro Siddhi Pradhana",
-        "division": "Project Management",
-        "position": "Director"
-      },
-      {
-        "name": "Akbar Rafsanjhani",
-        "division": "Project Management",
-        "position": "Vice President"
-      },
-      {
-        "name": "Muhammad Ramy Azhar",
-        "division": "Project Management",
-        "position": "Lead"
-      },
-      {
-        "name": "Alvia Dibby Shadqah",
-        "division": "Project Management",
-        "position": "Lead"
-      },
-      {
-        "name": "Ayila Adzkiya S",
-        "division": "Project Management",
-        "position": "Lead"
-      },
-      {
-        "name": "Mohammed Al Kwarizmi Dwi Anggara",
-        "division": "Project Management",
-        "position": "Member"
-      },
-      {
-        "name": "Rania Devina Nandini",
-        "division": "Project Management",
-        "position": "Member"
-      },
-      {
-        "name": "Najwa Lathifah Ulima",
-        "division": "Project Management",
-        "position": "Member"
-      },
-      {
-        "name": "Fayza Azzahra Robby",
-        "division": "Project Management",
-        "position": "Member"
-      },
-      {
-        "name": "Muhammad Fachri Anandito",
-        "division": "Project Management",
-        "position": "Member"
-      },
-      {
+        "position": "Director",
         "name": "Muhammad Estuputra Denaya",
-        "division": "Project Management",
-        "position": "Member"
+        "division": "Project Management"
       },
       {
+        "position": "VP",
+        "name": "Najwa Lathifah Ulima",
+        "division": "Project Management"
+      },
+      {
+        "position": "Lead",
+        "name": "Faatihah Tharra Sabbih",
+        "division": "Project Management"
+      },
+      {
+        "position": "Lead",
+        "name": "Fayza Azzahra Robby",
+        "division": "Project Management"
+      },
+      {
+        "position": "Lead",
         "name": "Jasmine Ainal Muthia",
-        "division": "Project Management",
-        "position": "Member"
+        "division": "Project Management"
+      },
+      {
+        "position": "Lead",
+        "name": "Rania Devina Nandini",
+        "division": "Project Management"
+      },
+      {
+        "position": "Member",
+        "name": "Amira Nisrina Nashita",
+        "division": "Project Management"
+      },
+      {
+        "position": "Member",
+        "name": "Evan Christopher Samosir",
+        "division": "Project Management"
+      },
+      {
+        "position": "Member",
+        "name": "Ikmal Almuhtadi Rajab",
+        "division": "Project Management"
+      },
+      {
+        "position": "Member",
+        "name": "Raihansyah Yoga Adhitama",
+        "division": "Project Management"
+      },
+      {
+        "position": "Member",
+        "name": "Sophie Andira Cindani Gardian",
+        "division": "Project Management"
+      },
+      {
+        "position": "Member",
+        "name": "Zachra Shafira Ramadhanty",
+        "division": "Project Management"
       }
     ]
   },
   {
     "id": 11,
-    "name": "Public Relations",
-    "about": "Public Relation is dedicated to manage public exposure of RISTEK and come up with innovative solutions to broaden up RISTEK’s audiences.To support RISTEK, Public Relation will find, manage, and closely maintain relationships with external parties. This year, we divide the team into three subdivisions - marketing, content writer, and graphic design. Altogether, the subdivisions will work together to maintain a good public exposure of RISTEK.",
+    "name": "External Affairs",
+    "about": "External Affairs is dedicated to manage public exposure of RISTEK and come up with innovative solutions to broaden up RISTEK’s audiences.To support RISTEK, External Affairs will find, manage, and closely maintain relationships with external parties. This year, we divide the team into three subdivisions - marketing, content writer, and graphic design. Altogether, the subdivisions will work together to maintain a good public exposure of RISTEK.",
     "team": [
       {
-        "name": "Wulan Febyazzahra Putri",
-        "division": "Public Relations",
-        "position": "Director"
+        "position": "Director",
+        "name": "Keiko Aaliya Hernowo Putri",
+        "division": "External Affairs"
       },
       {
-        "name": "Earlene Shefila",
-        "division": "Public Relations",
-        "position": "Vice President"
+        "position": "VP",
+        "name": "Tsanaa Patricia Khonsaa",
+        "division": "External Affairs"
       },
       {
-        "name": "Rifqi Hilman Saputra",
-        "division": "Public Relations",
-        "position": "Lead"
+        "position": "Lead of Marketing",
+        "name": "Andreas Ilham",
+        "division": "External Affairs"
       },
       {
-        "name": "Hilmy Akbar",
-        "division": "Public Relations",
-        "position": "Lead"
+        "position": "Lead of Partnership",
+        "name": "Amelia Maharani Nurmalitasari",
+        "division": "External Affairs"
       },
       {
-        "name": "Diva Amelia",
-        "division": "Public Relations",
-        "position": "Lead"
+        "position": "Lead of Content Writer",
+        "name": "Rizma Chaerani",
+        "division": "External Affairs"
       },
       {
-        "name": "Trisetio Putra",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Lead of Graphic Design",
+        "name": "Indira Devi Rusvandy",
+        "division": "External Affairs"
       },
       {
-        "name": "Hafiz Fadillah Sandi",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Alya Astrid Shakila",
+        "division": "External Affairs"
       },
       {
-        "name": "Alifah Fatimah Azzahra Hardian",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Arkan Alexei Andrei",
+        "division": "External Affairs"
       },
       {
-        "name": "Raihansyah Yoga Adhitama",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Azra Batrisyia Hisman",
+        "division": "External Affairs"
       },
       {
-        "name": "Tsabita Sarah Indah Anggayasti",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Dhafin Raditya Juliawan",
+        "division": "External Affairs"
       },
       {
-        "name": "Natasya Zahra",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Farah Dita Ashilah",
+        "division": "External Affairs"
       },
       {
-        "name": "Nabila Sekar Andini",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Gregorius Farel Prasasta",
+        "division": "External Affairs"
       },
       {
-        "name": "Anindya Sasriya Ibrahim",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Leony Ciputri",
+        "division": "External Affairs"
       },
       {
-        "name": "Khansa Khairunisa Putri",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Mahmud Asrul",
+        "division": "External Affairs"
       },
       {
-        "name": "Rani Aprilia ",
-        "division": "Public Relations",
-        "position": "Member"
+        "position": "Member",
+        "name": "Mariana Salma Saraswati",
+        "division": "External Affairs"
+      },
+      {
+        "position": "Member",
+        "name": "Monica Shannon Clio Aurelie",
+        "division": "External Affairs"
+      },
+      {
+        "position": "Member",
+        "name": "Raudhatul Jannah",
+        "division": "External Affairs"
+      },
+      {
+        "position": "Member",
+        "name": "Rheina Elvaretta",
+        "division": "External Affairs"
+      },
+      {
+        "position": "Member",
+        "name": "Vania Azria Wardani",
+        "division": "External Affairs"
       }
     ]
   },
@@ -692,74 +732,64 @@
     "about": "Get valuable and career-kickstarting web development knowledge with Web Development. You will learn the best practices of web development skills and have the opportunity to build up your portfolio. Through internal classes, you will learn about the best practices of web development skills such as analytical, responsive design, HTML/CSS, and JavaScript skills. Not only that, but you will also have the opportunity to work on real projects such as developing PMB’s website and revamping SusunJadwal website.",
     "team": [
       {
-        "name": "Anggardha Febriano",
-        "division": "Web Development",
-        "position": "Director"
+        "position": "Director",
+        "name": "Nofaldi Fikrul Atmam",
+        "division": "Web Development"
       },
       {
-        "name": "Shafiya Ayu Adzhani",
-        "division": "Web Development",
-        "position": "Vice President"
-      },
-      {
-        "name": "Althof Rafaella Ramdhan",
-        "division": "Web Development",
-        "position": "Lead"
-      },
-      {
+        "position": "VP",
         "name": "Dionisius Baskoro Samudra",
-        "division": "Web Development",
-        "position": "Lead"
+        "division": "Web Development"
       },
       {
-        "name": "Fahdii Ajmalal Fikrie",
-        "division": "Web Development",
-        "position": "Lead"
+        "position": "Lead",
+        "name": "Adrian Ardizza",
+        "division": "Web Development"
       },
       {
-        "name": "Audrey Annisa Datau",
-        "division": "Web Development",
-        "position": "Lead"
+        "position": "Lead",
+        "name": "Naradhipa M S Bhary",
+        "division": "Web Development"
       },
       {
-        "name": "Mustafa Zaki Assagaf",
-        "division": "Web Development",
-        "position": "Lead"
-      },
-      {
-        "name": "Muhammad Fathan Muthahhari",
-        "division": "Web Development",
-        "position": "Member"
-      },
-      {
-        "name": "Puspita Sari Matovanni",
-        "division": "Web Development",
-        "position": "Member"
-      },
-      {
-        "name": "Muhammad Urwatil Wutsqo",
-        "division": "Web Development",
-        "position": "Member"
-      },
-      {
+        "position": "Lead",
         "name": "Rizky Nurfaizi Widyanto",
-        "division": "Web Development",
-        "position": "Member"
+        "division": "Web Development"
       },
       {
+        "position": "Lead",
         "name": "Zuhal 'Alimul Hadi",
-        "division": "Web Development",
-        "position": "Member"
+        "division": "Web Development"
       },
       {
-        "name": "Gabriel Erwhian Winarso",
-        "division": "Web Development",
-        "position": "Member"
+        "position": "Member",
+        "name": "Andrew Jeremy",
+        "division": "Web Development"
       },
       {
-        "name": "Fadhila Humairah",
-        "division": "Web Development",
-        "position": "Member"
+        "position": "Member",
+        "name": "Bornyto Hamonangan",
+        "division": "Web Development"
+      },
+      {
+        "position": "Member",
+        "name": "Melisa Ayu Angelina",
+        "division": "Web Development"
+      },
+      {
+        "position": "Member",
+        "name": "Nayyara Airlangga Raharjo",
+        "division": "Web Development"
+      },
+      {
+        "position": "Member",
+        "name": "Rashad Aziz",
+        "division": "Web Development"
+      },
+      {
+        "position": "Member",
+        "name": "Risa Lestari",
+        "division": "Web Development"
       }
     ]
   }

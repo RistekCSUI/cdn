@@ -1,17 +1,17 @@
 [
   {
-    "icon": "inclusion",
-    "title": "<span style=\"color: #C424A3\">Inclusion</span> is the real ground for creativity.",
-    "desc": "We love people that add and take things from the table, they enrich our perspective!"
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/values/learning.svg",
+    "title": "<span style=\"color: #C424A3\">Learning</span> hub for talents like you",
+    "desc": "We are the exact place for you to stumble and make mistakes, we ensure your personal development is always our top priority."
   },
   {
-    "icon": "innovation",
-    "title": " We’re obsessed with <span style=\"color: #C424A3\">innovation</span>.",
-    "desc": "We’re that team that can do both—we love making radical changes yet we’re also very meticulous with data."
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/values/breakthrough.svg",
+    "title": "We aspire for <span style=\"color: #C424A3\">breakthrough</span>",
+    "desc": "Our process is based around creative thinking and innovation, constructing impactful products that people need and love."
   },
   {
-    "icon": "disrupt",
-    "title": "We <span style=\"color: #C424A3\">disrupt</span>.",
-    "desc": "Innovation is not just about making bigger things. It’s about addressing the core problems and the way things are being done. "
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/values/efficiency.svg",
+    "title": "We embody <span style=\"color: #C424A3\">efficiency</span>",
+    "desc": "Despite having access to the industry world-class resources, we are intentional about the time we use and we root for reusability."
   }
 ]

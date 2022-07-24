@@ -1,0 +1,14 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_410_6810)">
+<path d="M60 60L0 4.52987e-06L4.52987e-06 60L60 60Z" fill="#5038BC"/>
+<ellipse cx="29.6" cy="29.6" rx="11.6" ry="11.6" transform="rotate(90 29.6 29.6)" fill="#FFD668"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30 4C15.6406 4 4.00001 15.6406 4.00001 30C4.00001 44.3594 15.6406 56 30 56C44.3594 56 56 44.3594 56 30C56 15.6406 44.3594 4 30 4ZM30.4118 14C21.3478 14 14 21.3478 14 30.4118C14 39.4758 21.3478 46.8236 30.4118 46.8236C39.4758 46.8236 46.8236 39.4758 46.8236 30.4118C46.8236 21.3478 39.4758 14 30.4118 14Z" fill="#64E6FB"/>
+<ellipse cx="29.6" cy="29.6" rx="11.6" ry="11.6" transform="rotate(90 29.6 29.6)" fill="#FFD668"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.6152 11.6152C6.91015 16.3203 4 22.8203 4 30C4 44.3594 15.6406 56 30 56C37.1797 56 43.6797 53.0899 48.3848 48.3848L11.6152 11.6152Z" fill="#C424A3"/>
+</g>
+<defs>
+<clipPath id="clip0_410_6810">
+<rect width="60" height="60" fill="white" transform="translate(0 60) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
