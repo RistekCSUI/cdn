@@ -1,17 +1,17 @@
 [
   {
     "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/values/learning.svg",
-    "title": "<span style=\"color: #C424A3\">Learning</span> hub for talents like you",
-    "desc": "We are the exact place for you to stumble and make mistakes, we ensure your personal development is always our top priority."
+    "title": "<span style=\"color: #C424A3\">We strive for</span> excellence",
+    "desc": "By creating an ambition-fueled environment, we encourage every member to continually improve and achieve their best individually, thus contributing to the acceleration of RISTEK’s growth collectively."
   },
   {
     "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/values/breakthrough.svg",
-    "title": "We aspire for <span style=\"color: #C424A3\">breakthrough</span>",
-    "desc": "Our process is based around creative thinking and innovation, constructing impactful products that people need and love."
+    "title": "We build <span style=\"color: #C424A3\">strong synergies</span>",
+    "desc": "Purposeful partnerships with external entities and effective collaboration across internal teams act as catalysts for us to achieve our mission."
   },
   {
     "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/values/efficiency.svg",
-    "title": "We embody <span style=\"color: #C424A3\">efficiency</span>",
-    "desc": "Despite having access to the industry world-class resources, we are intentional about the time we use and we root for reusability."
+    "title": "We aim to <span style=\"color: #C424A3\">achieve equity</span>",
+    "desc": "Along with the purpose to provide equal opportunities & resources to each member, we are committed to support them to grow to their maximum potential."
   }
 ]
