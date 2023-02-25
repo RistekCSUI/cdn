@@ -1,0 +1,35 @@
+[
+  {
+    "title": "RISTEK x Ziliun Class",
+    "subtitle": "UI/UX and Career Workshop",
+    "time": "June 2022",
+    "description": "Workipedia Class: Spill the Tech is a collaboration program between Ziliun and Telkomsel to introduce the tech industry to university students through RISTEK by hosting intimate sessions that consist of Online Career Talk and Mini Workshops.",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/events/RistekXZiliun.png"
+  },
+  {
+    "title": "RISTEK x tiket.com",
+    "subtitle": "Exclusive Company Visit",
+    "time": "July 2022",
+    "description": "The whole RISTEK team visited the headquarter of Indonesia’s OTA giant, tiket.com, as our first offline event since the pandemic. The tiket.com team hosted an exclusive networking session and office tour.",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/events/RistekXTiket.png"
+  },
+  {
+    "title": "RISTEK Sisters in Tech",
+    "time": "August 2022",
+    "description": "One of the first women-only tech mentorship programs pioneered by a student organization, open for female Indonesian citizens ages 17-25. SISTECH amassed over 1.300+ applications across four career paths: Product Management, UI/UX Design, Software Engineering, and Data Analytics.",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/events/RistekSistech.png"
+  },
+  {
+    "title": "Pekan RISTEK",
+    "time": "November 2022",
+    "description": "Our annual event to showcase RISTEK to Fasilkom UI students through open classes and competitions hosted by our Special Interest Groups: Data Science, Project Management, Digital Product Design, Web Development, and many more!",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/events/PekanRistek.png"
+  },
+  {
+    "title": "Pekan RISTEK x Google",
+    "subtitle": "Exclusive Company Visit",
+    "time": "December 2022",
+    "description": "To close our annual Pekan RISTEK, participants and members ranging from freshmen to senior Fasilkom UI students toured the Google office in Jakarta. The Google team also provided an insightful session and hands-on implementation of Google Cloud Platform by industry professionals.",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/main-website/photos/events/RistekXGoogle.jpg"
+  }
+]
