@@ -630,7 +630,7 @@
   {
     "id": 10,
     "name": "Web Development",
-    "about": "Get valuable and career-kickstarting web development knowledge with Web Development. You will learn the best practices of web development skills and have the opportunity to build up your portfolio. Through internal classes, you will learn about the best practices of web development skills such as analytical, responsive design, HTML/CSS, and JavaScript skills. Not only that, but you will also have the opportunity to work on real projects such as developing PMB’s website and revamping SusunJadwal website.",
+    "about": "Get valuable and career-kickstarting web development knowledge with Web Development. You will learn the best practices of web development skills and have the opportunity to build up your portfolio. Through internal classes, you will learn about the best practices of web development skills such as analytical skills software engineering implementation, various technology stacks that suits right now industry and many more! You will be provided with mentors that also conducts routine 1 on 1 session to help track your web development skill progress and also opportunity to work on real projects!",
     "team": [
       {
         "position": "Director",
@@ -705,7 +705,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Marketing and Communications",
     "about": "Marketing & Communications focuses on promoting RISTEK as an organization by developing and executing marketing strategies to communicate RISTEK’s values and increase brand awareness.",
     "team": [
@@ -767,7 +767,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "Product Operations",
     "about": "Product Operations (referred to as Product Ops) is a part of the Product Office team. As a member of Product Ops, you will be a part of an independent team directly under the Executive Director of Product.",
     "team": [
