@@ -1,0 +1,34 @@
+{
+  "Home": {
+    "Hero": {
+      "title": "Kawan Keren untuk Kesuksesan Kelas Kamu"
+    },
+    "Description": {
+      "opening": "Ucapkan selamat tinggal pada kebingungan dan nikmati proses pengambilan keputusan",
+      "presents": "Mempersembahkan...",
+      "description": "\"Aplikasi <span>Ulas Mata Kuliah No #1</span> UI\""
+    }
+  },
+  "Component": {
+    "BubbleCard": {
+      "semesterTaken": "Semester mengambil: ",
+      "reviewAt": "Diulas pada "
+    },
+    "DownloadSection": {
+      "opening": "<p>Belum punya aplikasi</p><div><logo></logo>?</div>",
+      "persuation": "<p>Tunggu apa lagi...</p><p>Yuk, unduh sekarang juga!</p>"
+    },
+    "ContactUsSection": {
+      "title": "Masih butuh bantuan kami?",
+      "button": "Kontak Kami"
+    },
+    "CustomDisclosure": {
+      "seeMore": "Lihat Selengkapnya"
+    }
+  },
+  "Help": {
+    "Hero": {
+      "title": "Butuh Bantuan?"
+    }
+  }
+}

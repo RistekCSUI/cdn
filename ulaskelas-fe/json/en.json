@@ -1,0 +1,34 @@
+{
+  "Home": {
+    "Hero": {
+      "title": "The Clever Companion to Choose Your Courses"
+    },
+    "Description": {
+      "opening": "Say goodbye to confusion and hello to informed decision-making.",
+      "presents": "Proudly Presents...",
+      "description": "\"UI's <span>#1 course-review</span> app\""
+    }
+  },
+  "Component": {
+    "BubbleCard": {
+      "semesterTaken": "Semester take: ",
+      "reviewAt": "Reviewed on "
+    },
+    "DownloadSection": {
+      "opening": "<p>Ready to plan your courses?</p><div><space>Download</space><logo></logo></div>",
+      "persuation": "<p>for a breeze</p><p>course selection experience!</p>"
+    },
+    "ContactUsSection": {
+      "title": "Still need our help?",
+      "button": "Contact Us"
+    },
+    "CustomDisclosure": {
+      "seeMore": "See More"
+    }
+  },
+  "Help": {
+    "Hero": {
+      "title": "Need Some Help?"
+    }
+  }
+}
