@@ -413,7 +413,8 @@
         "position": "Member",
         "name": "Nibras Itqon Ihsani",
         "division": "Mobile Development"
-      }    ]
+      }
+    ]
   },
   {
     "id": 7,
@@ -637,6 +638,11 @@
       {
         "position": "Member",
         "name": "Muhammad Rayyan Wiradana",
+        "division": "Business Growth & Partnership"
+      },
+      {
+        "position": "Member",
+        "name": "Muhammad Faishal Adly Nelwan",
         "division": "Business Growth & Partnership"
       },
       {
