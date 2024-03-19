@@ -1,32 +1,32 @@
 [
-   {
-      "statistic":"Rp230M+",
-      "icon":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_1.svg",
-      "description":"project valuation"
-   },
-   {
-      "statistic":"50+",
-      "icon":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_2.svg",
-      "description":"worldwide partners"
-   },
-   {
-      "statistic":"1M+",
-      "icon":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_3.svg",
-      "description":"users this year"
-   },
-   {
-      "statistic":"34 years",
-      "icon":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_4.svg",
-      "description":"of service in this industry"
-   },
-   {
-      "statistic":"135",
-      "icon":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_1.svg",
-      "description":"members boosted"
-   },
-   {
-      "statistic":"20+",
-      "icon":"https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_2.svg",
-      "description":"products"
-   }
+  {
+    "statistic": "1B++",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_1.svg",
+    "description": "Project Valuation"
+  },
+  {
+    "statistic": "80+",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_2.svg",
+    "description": "Worldwide Partners"
+  },
+  {
+    "statistic": "1M+",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_3.svg",
+    "description": "Users This Year"
+  },
+  {
+    "statistic": "35Y",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_4.svg",
+    "description": "of Service in This Industry"
+  },
+  {
+    "statistic": "500",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_1.svg",
+    "description": "Members Boosted"
+  },
+  {
+    "statistic": "60+",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/main-website/icons/about/fact_icon_2.svg",
+    "description": "Products"
+  }
 ]
