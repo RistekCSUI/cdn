@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Internal class",
+    "desc": "Weekly classes consist of technical mentorship and hands-on training given by Directors, VDs, and Leads in each special interest group. To gain industry knowledge, members are guaranteed an immersive guest lecture from professionals.",
+    "idx": 0
+  },
+  {
+    "title": "Projects-Based learning",
+    "desc": "Direct application of internal classes through project-based learning approach to build portfolio to apply for career opportunities.",
+    "idx": 1
+  },
+  {
+    "title": "Collaborative Partnership",
+    "desc": "From exclusive company events to hiring opportunities, our members are exposed to diverse dimensions of the industry through our corporate and community partnerships.",
+    "idx": 2
+  },
+  {
+    "title": "Competition & Hackathons",
+    "desc": "Premier national and international competitions to facilitate growth and demonstrate talent. Experience the thrill of becoming winning champions of the RISTEK delegation.",
+    "idx": 3
+  }
+]
