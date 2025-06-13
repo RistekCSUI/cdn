@@ -16,7 +16,7 @@
     "fields": {
       "width": "150",
       "description": "Zoom Pro Account",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/zoom.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/zoom.svg",
       "height": "auto",
       "name": "zoom"
     }
@@ -27,7 +27,7 @@
     "fields": {
       "width": "100",
       "description": "AWS Credits",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/aws-credits.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/aws-credits.svg",
       "height": "auto",
       "name": "aws"
     }
@@ -38,7 +38,7 @@
     "fields": {
       "width": "auto",
       "description": "Google Workspace Account",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/google-workspace-account.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/google-workspace-account.svg",
       "height": "50",
       "name": "google"
     }
@@ -49,7 +49,7 @@
     "fields": {
       "width": "auto",
       "description": "Sketch Full License",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/sketch.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/sketch.svg",
       "height": "50",
       "name": "sketch"
     }
@@ -60,7 +60,7 @@
     "fields": {
       "width": "auto",
       "description": "Miro Enterprise Team",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/miro.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/miro.svg",
       "height": "50",
       "name": "miro"
     }
@@ -71,7 +71,7 @@
     "fields": {
       "width": "80",
       "description": "Notion Education Pro",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/notion.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/notion.svg",
       "height": "auto",
       "name": "notion"
     }
@@ -82,7 +82,7 @@
     "fields": {
       "width": "auto",
       "description": "Stripe Account",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/stripe.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/stripe.svg",
       "height": "50",
       "name": "stripe"
     }
@@ -93,7 +93,7 @@
     "fields": {
       "width": "auto",
       "description": "Grammarly Premium",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/grammarly.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/grammarly.svg",
       "height": "60",
       "name": "grammarly"
     }
@@ -104,7 +104,7 @@
     "fields": {
       "width": "auto",
       "description": "Zeplin Pro Subscription",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/zeplin-pro.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/zeplin-pro.svg",
       "height": "50",
       "name": "zeplin"
     }
@@ -115,7 +115,7 @@
     "fields": {
       "width": "auto",
       "description": "and many more to come!",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2024/images/ristek-benefits/many-more.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/many-more.svg",
       "height": "50",
       "name": "many-more"
     }
