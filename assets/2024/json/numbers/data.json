@@ -1,0 +1,32 @@
+[
+  {
+    "statistic": "1B++",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/assets/2024/icons/briefcase.svg",
+    "description": "Project Valuation"
+  },
+  {
+    "statistic": "80+",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/assets/2024/icons/globe.svg",
+    "description": "Worldwide Partners"
+  },
+  {
+    "statistic": "1M+",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/assets/2024/icons/person.svg",
+    "description": "Users This Year"
+  },
+  {
+    "statistic": "35Y",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/assets/2024/icons/calendar-event.svg",
+    "description": "of Service in This Industry"
+  },
+  {
+    "statistic": "500",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/assets/2024/icons/person-badge.svg",
+    "description": "Members Boosted"
+  },
+  {
+    "statistic": "60+",
+    "icon": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn/assets/2024/icons/laptop.svg",
+    "description": "Products"
+  }
+]
