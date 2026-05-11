@@ -1,0 +1,68 @@
+[
+  {
+    "title": "AWAS NABRAK",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/awas-nabrak.png",
+    "link": "https://redorange.itch.io/dsld",
+    "category": "GEMASTIK XVI"
+  },
+  {
+    "title": "SIBIQuest",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/sibiquest.png",
+    "link": "https://uttsada-jason.itch.io/sibiquest",
+    "category": "GEMASTIK XVI"
+  },
+  {
+    "title": "Trafficky",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/trafficky.png",
+    "link": "https://navisraditya.itch.io/trafficky",
+    "category": "GEMASTIK XVI"
+  },
+  {
+    "title": "Cosmic Conquest",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/cosmic-conquest.png",
+    "link": "https://redorange.itch.io/cosmicconquest",
+    "category": "COMPFEST"
+  },
+  {
+    "title": "Galactic Dive",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/galactic-dive.png",
+    "link": "https://takemegh.itch.io/galactic-dive",
+    "category": "COMPFEST"
+  },
+  {
+    "title": "Full Stacked V2",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/full-stacked-v2.png",
+    "link": "https://helheshtur.itch.io/full-stacked-v2",
+    "category": "COMPFEST"
+  },
+  {
+    "title": "Dumpling Disaster",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/dumpling-disaster.png",
+    "link": "https://redorange.itch.io/dumpling-disaster",
+    "category": "Garena"
+  },
+  {
+    "title": "Rocateer",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/rocateer.png",
+    "link": "https://navisraditya.itch.io/rocateer",
+    "category": "Garena"
+  },
+  {
+    "title": "Whisker's Escape",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/whiskers-escape.png",
+    "link": "https://samueltaniel.itch.io/whiskers-escape",
+    "category": "Garena"
+  },
+  {
+    "title": "Baking Bread",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/baking-bread.png",
+    "link": "https://shmegmayn.itch.io/baking-bread",
+    "category": "Other"
+  },
+  {
+    "title": "The 1945",
+    "image": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/games/the-1945-by-booleh.png",
+    "link": "https://navisraditya.itch.io/the-1945-by-booleh",
+    "category": "Other"
+  }
+]

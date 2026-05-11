@@ -1,0 +1,41 @@
+<svg width="724" height="987" viewBox="0 0 724 987" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_725:3054" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="724" height="987">
+<rect width="724" height="987" fill="#342966"/>
+</mask>
+<g mask="url(#mask0_725:3054)">
+<g opacity="0.05">
+<path d="M264.854 72L404.099 210.533L-178.989 210.533L-39.744 72L264.854 72Z" fill="white"/>
+<path d="M-59.3425 552.541L10.2799 414.008L404.081 414.008L264.837 552.541L-59.3425 552.541Z" fill="white"/>
+<mask id="mask1_725:3054" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-40" y="72" width="305" height="139">
+<rect opacity="0.45" x="264.859" y="72" width="138.533" height="304.598" transform="rotate(90 264.859 72)" fill="#5038BC"/>
+</mask>
+<g mask="url(#mask1_725:3054)">
+<ellipse opacity="0.5" cx="271.397" cy="186.718" rx="136.368" ry="89.2037" transform="rotate(90 271.397 186.718)" fill="white"/>
+</g>
+<path d="M264.859 72L404.104 210.533V414.003H264.859V72Z" fill="white"/>
+<mask id="mask2_725:3054" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="264" y="223" width="141" height="192">
+<rect opacity="0.45" x="404.099" y="414.011" width="139.245" height="190.483" transform="rotate(-180 404.099 414.011)" fill="#B9B9B9"/>
+</mask>
+<g mask="url(#mask2_725:3054)">
+<ellipse opacity="0.5" cx="288.778" cy="427.014" rx="137.069" ry="88.7476" transform="rotate(-180 288.778 427.014)" fill="url(#paint0_radial_725:3054)"/>
+</g>
+<mask id="mask3_725:3054" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="12" y="414" width="192" height="139">
+<rect opacity="0.45" width="138.533" height="191.462" transform="matrix(-4.3936e-08 1 1 4.34879e-08 12.4636 414.011)" fill="#B9B9B9"/>
+</mask>
+<g mask="url(#mask3_725:3054)">
+<ellipse opacity="0.7" rx="249.779" ry="89.0173" transform="matrix(0.641681 0.766972 0.770196 -0.637807 38.5904 524.539)" fill="url(#paint1_radial_725:3054)"/>
+</g>
+<path d="M-59.3274 552.543L10.295 414.01L403.009 873.983L297.487 964.895L-59.3274 552.543Z" fill="white"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_725:3054" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(288.778 427.014) rotate(90) scale(88.7476 137.069)">
+<stop/>
+<stop offset="0.917127" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_725:3054" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(249.779 89.0173) rotate(90) scale(89.0173 249.779)">
+<stop/>
+<stop offset="0.917127" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
