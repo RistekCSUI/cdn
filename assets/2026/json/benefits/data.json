@@ -11,23 +11,12 @@
     }
   },
   {
-    "id": "recd2esB7I3fqqRa1",
-    "createdTime": "2022-07-25T16:51:55.000Z",
-    "fields": {
-      "width": "150",
-      "description": "Zoom Pro Account",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/zoom.svg",
-      "height": "auto",
-      "name": "zoom"
-    }
-  },
-  {
     "id": "recfZH5xp5v26LwIv",
     "createdTime": "2022-07-25T16:51:55.000Z",
     "fields": {
       "width": "100",
       "description": "AWS Credits",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/aws-credits.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2026/images/ristek-benefits/aws-credits.svg",
       "height": "auto",
       "name": "aws"
     }
@@ -38,42 +27,20 @@
     "fields": {
       "width": "auto",
       "description": "Google Workspace Account",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/google-workspace-account.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2026/images/ristek-benefits/google-workspace-account.svg",
       "height": "50",
       "name": "google"
     }
   },
   {
-    "id": "recO1Yz7abOyoaAIW",
-    "createdTime": "2022-07-25T16:51:55.000Z",
+    "id": "recRujMk5XPEOKrewasce",
+    "createdTime": "2026-07-25T16:51:55.000Z",
     "fields": {
       "width": "auto",
-      "description": "Sketch Full License",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/sketch.svg",
+      "description": "Microsoft Azure Credits",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2026/images/ristek-benefits/microsoft-azure.svg",
       "height": "50",
-      "name": "sketch"
-    }
-  },
-  {
-    "id": "recYoDFyaYvNl0c3G",
-    "createdTime": "2022-07-25T16:51:55.000Z",
-    "fields": {
-      "width": "auto",
-      "description": "Miro Enterprise Team",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/miro.svg",
-      "height": "50",
-      "name": "miro"
-    }
-  },
-  {
-    "id": "recKVpRdnzBNV2IdR",
-    "createdTime": "2022-07-25T16:51:55.000Z",
-    "fields": {
-      "width": "80",
-      "description": "Notion Education Pro",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/notion.svg",
-      "height": "auto",
-      "name": "notion"
+      "name": "microsoft"
     }
   },
   {
@@ -82,31 +49,9 @@
     "fields": {
       "width": "auto",
       "description": "Stripe Account",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/stripe.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2026/images/ristek-benefits/stripe.svg",
       "height": "50",
       "name": "stripe"
-    }
-  },
-  {
-    "id": "recr3Xw8cjVZWaMKV",
-    "createdTime": "2022-07-25T16:51:55.000Z",
-    "fields": {
-      "width": "auto",
-      "description": "Grammarly Premium",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/grammarly.svg",
-      "height": "60",
-      "name": "grammarly"
-    }
-  },
-  {
-    "id": "recsYyva2eeWnLtXn",
-    "createdTime": "2022-07-25T16:51:55.000Z",
-    "fields": {
-      "width": "auto",
-      "description": "Zeplin Pro Subscription",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/zeplin-pro.svg",
-      "height": "50",
-      "name": "zeplin"
     }
   },
   {
@@ -115,7 +60,7 @@
     "fields": {
       "width": "auto",
       "description": "and many more to come!",
-      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2025/images/ristek-benefits/many-more.svg",
+      "src": "https://cdn.jsdelivr.net/gh/RistekCSUI/cdn@main/assets/2026/images/ristek-benefits/many-more.svg",
       "height": "50",
       "name": "many-more"
     }
